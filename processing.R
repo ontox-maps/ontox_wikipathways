@@ -1,0 +1,1 @@
+#script to split the tables of the collection for each case-study
