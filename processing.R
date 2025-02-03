@@ -36,3 +36,34 @@ for(col in columns) {
 
 cat("\nProcessing complete. Files created in 'collection' folder:\n")
 cat(paste0("- ", columns, "_ids.txt\n"))
+
+
+
+
+##############################################################################
+### Create a unique file with all relevant pathways
+# Get list of all files in the collection folder
+
+files <- list.files(path = "collection", full.names = TRUE)
+
+# Create empty vector to store all values
+all_values <- c()
+
+# Read each file and append its contents to all_values
+for (file in files) {
+  # Read the file content
+  # Using readLines to handle text files - adjust if your files have different format
+  file_content <- readLines(file)
+  
+  # Append the content to our main vector
+  all_values <- c(all_values, file_content)
+}
+
+# Remove duplicates
+unique_values <- unique(all_values)
+
+# Write the unique values to ontox.txt
+writeLines(unique_values, "ontox.txt")
+
+# Print confirmation message
+cat("Process completed. Unique values have been written to ontox.txt\n")

@@ -1,0 +1,913 @@
+id	url	name	species	revision	steatosis	cholestasis	crystallopathy	tub.necrosis	cfd	ntc
+WP5352	https://www.wikipathways.org/instance/WP5352	10q11.21q11.23 copy number variation syndrome	Homo sapiens	2024-02-22	0	0	0	0	1	0
+WP5402	https://www.wikipathways.org/instance/WP5402	10q22q23 copy number variation	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5348	https://www.wikipathways.org/instance/WP5348	11p11.2 copy number variation syndrome	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5405	https://www.wikipathways.org/instance/WP5405	13q12 or CRYL1 copy number variation	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP5406	https://www.wikipathways.org/instance/WP5406	13q12.12 copy number variation	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP4940	https://www.wikipathways.org/instance/WP4940	15q11.2 copy number variation syndrome	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP5407	https://www.wikipathways.org/instance/WP5407	15q11q13 copy number variation	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP4942	https://www.wikipathways.org/instance/WP4942	15q13.3 copy number variation syndrome	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP5408	https://www.wikipathways.org/instance/WP5408	15q25 copy number variation	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP4950	https://www.wikipathways.org/instance/WP4950	16p11.2 distal deletion syndrome	Homo sapiens	2024-02-05	0	0	0	0	1	0
+WP4949	https://www.wikipathways.org/instance/WP4949	16p11.2 proximal deletion syndrome	Homo sapiens	2024-07-27	0	0	0	0	1	0
+WP5376	https://www.wikipathways.org/instance/WP5376	17p13.3 (YWHAE) copy number variation	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5287	https://www.wikipathways.org/instance/WP5287	17q12 copy number variation syndrome	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5345	https://www.wikipathways.org/instance/WP5345	1p36 copy number variation syndrome	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP4905	https://www.wikipathways.org/instance/WP4905	1q21.1 copy number variation syndrome	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP4657	https://www.wikipathways.org/instance/WP4657	22q11.2 copy number variation syndrome	Homo sapiens	2024-02-22	0	0	0	0	1	0
+WP5221	https://www.wikipathways.org/instance/WP5221	2q11.2 copy number variation syndrome	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5222	https://www.wikipathways.org/instance/WP5222	2q13 copy number variation syndrome	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP5223	https://www.wikipathways.org/instance/WP5223	2q21.1 copy number variation syndrome	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5224	https://www.wikipathways.org/instance/WP5224	2q37 copy number variation syndrome	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP4906	https://www.wikipathways.org/instance/WP4906	3q29 copy number variation syndrome	Homo sapiens	2024-07-26	0	0	0	0	1	0
+WP3879	https://www.wikipathways.org/instance/WP3879	4-hydroxytamoxifen, dexamethasone, and retinoic acids regulation of p27 expression	Homo sapiens	2024-02-15	0	0	0	0	0	1
+WP5365	https://www.wikipathways.org/instance/WP5365	4p16.3 copy number variation	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5380	https://www.wikipathways.org/instance/WP5380	5q35 copy number variation	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5400	https://www.wikipathways.org/instance/WP5400	6q16 copy number variation	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5064	https://www.wikipathways.org/instance/WP5064	7-oxo-C and 7-beta-HC pathways	Homo sapiens	2024-02-13	0	0	0	0	0	1
+WP4932	https://www.wikipathways.org/instance/WP4932	7q11.23 copy number variation syndrome	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP5401	https://www.wikipathways.org/instance/WP5401	7q11.23 distal copy number variation	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5346	https://www.wikipathways.org/instance/WP5346	8p23.1 copy number variation syndrome	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5412	https://www.wikipathways.org/instance/WP5412	8q11.23 (RB1CC1) copy number variation	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5343	https://www.wikipathways.org/instance/WP5343	Abnormal calcium handling and its effects on muscle contraction in DMD	Homo sapiens	2023-05-01	0	0	0	0	0	0
+WP554	https://www.wikipathways.org/instance/WP554	ACE inhibitor pathway	Homo sapiens	2024-02-13	0	0	1	1	0	0
+WP5035	https://www.wikipathways.org/instance/WP5035	ACE2 inhibition leads to pulmonary fibrosis	Homo sapiens	2024-07-23	0	0	1	1	0	0
+WP5444	https://www.wikipathways.org/instance/WP5444	Acetaminophen in analgesia and antipyresis	Homo sapiens	2024-03-09	0	0	0	0	0	0
+WP528	https://www.wikipathways.org/instance/WP528	Acetylcholine synthesis	Homo sapiens	2024-01-24	0	0	0	0	1	0
+WP5104	https://www.wikipathways.org/instance/WP5104	Acquired partial lipodystrophy / Barraquer-Simons syndrome	Homo sapiens	2024-02-05	0	0	0	0	0	0
+WP4233	https://www.wikipathways.org/instance/WP4233	Acrylamide biotransformation and exposure biomarkers	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP4876	https://www.wikipathways.org/instance/WP4876	Activation of NLRP3 inflammasome by SARS-CoV-2	Homo sapiens	2024-07-29	0	0	0	0	0	0
+WP5293	https://www.wikipathways.org/instance/WP5293	Acute myeloid leukemia	Homo sapiens	2023-10-14	0	0	0	0	0	0
+WP4298	https://www.wikipathways.org/instance/WP4298	Acute viral myocarditis	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP5420	https://www.wikipathways.org/instance/WP5420	ADHD and autism (ASD) pathways	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP236	https://www.wikipathways.org/instance/WP236	Adipogenesis	Homo sapiens	2019-08-16	0	0	0	0	0	0
+WP4914	https://www.wikipathways.org/instance/WP4914	Adverse outcome pathway for mitochondrial complex 1 (C1) inhibition	Homo sapiens	2024-02-16	0	0	1	1	1	1
+WP5356	https://www.wikipathways.org/instance/WP5356	Affected pathways in Duchenne muscular dystrophy	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP699	https://www.wikipathways.org/instance/WP699	Aflatoxin B1 metabolism	Homo sapiens	2024-07-22	0	0	1	0	0	0
+WP2324	https://www.wikipathways.org/instance/WP2324	AGE/RAGE pathway	Homo sapiens	2023-04-25	0	0	1	1	1	1
+WP4962	https://www.wikipathways.org/instance/WP4962	Airway smooth muscle cell contraction	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP5136	https://www.wikipathways.org/instance/WP5136	ALA oxylipin metabolism	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP106	https://www.wikipathways.org/instance/WP106	Alanine and aspartate metabolism	Homo sapiens	2023-07-09	0	0	0	0	1	0
+WP2328	https://www.wikipathways.org/instance/WP2328	Allograft rejection	Homo sapiens	2022-01-11	0	0	1	0	0	0
+WP244	https://www.wikipathways.org/instance/WP244	Alpha 6 beta 4 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	1
+WP5202	https://www.wikipathways.org/instance/WP5202	Alstrom syndrome	Homo sapiens	2024-02-23	0	0	0	0	0	0
+WP4480	https://www.wikipathways.org/instance/WP4480	Altered glycosylation of MUC1 in tumor microenvironment	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP4524	https://www.wikipathways.org/instance/WP4524	Alternative pathway of fetal androgen synthesis	Homo sapiens	2024-02-13	0	0	0	0	0	1
+WP5124	https://www.wikipathways.org/instance/WP5124	Alzheimer's disease	Homo sapiens	2024-02-05	0	0	0	0	0	0
+WP2059	https://www.wikipathways.org/instance/WP2059	Alzheimer's disease and miRNA effects	Homo sapiens	2024-01-24	0	0	0	0	0	0
+WP715	https://www.wikipathways.org/instance/WP715	Amino acid conjugation	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP521	https://www.wikipathways.org/instance/WP521	Amino acid conjugation of benzoic acid	Homo sapiens	2020-07-02	0	0	0	0	0	0
+WP3925	https://www.wikipathways.org/instance/WP3925	Amino acid metabolism	Homo sapiens	2021-05-16	0	0	0	0	1	1
+WP5213	https://www.wikipathways.org/instance/WP5213	Amino acid metabolism in triple-negative breast cancer cells	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP4661	https://www.wikipathways.org/instance/WP4661	Amino acid metabolism pathway excerpt: histidine catabolism extension	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP5029	https://www.wikipathways.org/instance/WP5029	Amino acid transport defects (IEMs)	Homo sapiens	2024-02-13	0	0	1	1	0	0
+WP3678	https://www.wikipathways.org/instance/WP3678	Amplification and expansion of oncogenic pathways as metastatic traits	Homo sapiens	2024-02-15	0	0	0	0	0	0
+WP2447	https://www.wikipathways.org/instance/WP2447	Amyotrophic lateral sclerosis (ALS)	Homo sapiens	2024-01-28	0	0	0	0	0	0
+WP2263	https://www.wikipathways.org/instance/WP2263	Androgen receptor network in prostate cancer	Homo sapiens	2024-07-18	0	0	0	0	0	0
+WP138	https://www.wikipathways.org/instance/WP138	Androgen receptor signaling	Homo sapiens	2024-05-22	0	0	0	0	1	0
+WP1539	https://www.wikipathways.org/instance/WP1539	Angiogenesis	Homo sapiens	2024-02-13	0	0	0	0	1	0
+WP5036	https://www.wikipathways.org/instance/WP5036	Angiotensin II receptor type 1 pathway	Homo sapiens	2024-02-17	0	0	1	0	0	0
+WP5113	https://www.wikipathways.org/instance/WP5113	Antiviral and anti-inflammatory effects of Nrf2 on SARS-CoV-2 pathway	Homo sapiens	2021-07-02	0	0	1	0	0	0
+WP2864	https://www.wikipathways.org/instance/WP2864	Apoptosis-related network due to altered Notch3 in ovarian cancer	Homo sapiens	2019-11-29	0	0	0	0	0	0
+WP678	https://www.wikipathways.org/instance/WP678	Arachidonate epoxygenase / epoxide hydrolase	Homo sapiens	2024-07-22	0	0	1	0	0	0
+WP5155	https://www.wikipathways.org/instance/WP5155	Arachidonic acid (AA, ARA) oxylipin metabolism	Homo sapiens	2022-12-10	0	0	1	0	0	0
+WP2640	https://www.wikipathways.org/instance/WP2640	Aripiprazole metabolic pathway	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP2118	https://www.wikipathways.org/instance/WP2118	Arrhythmogenic right ventricular cardiomyopathy	Homo sapiens	2021-06-22	0	0	0	0	0	0
+WP5228	https://www.wikipathways.org/instance/WP5228	Arsenic liver toxicity pathway	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP5233	https://www.wikipathways.org/instance/WP5233	Arsenic metabolism and reactive oxygen species generation	Homo sapiens	2024-07-23	0	0	1	0	1	1
+WP5441	https://www.wikipathways.org/instance/WP5441	Artemisinin inhibition of uveal melanoma	Homo sapiens	2024-05-23	0	0	0	0	0	0
+WP694	https://www.wikipathways.org/instance/WP694	Arylamine metabolism	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4707	https://www.wikipathways.org/instance/WP4707	Aspirin and miRNAs	Homo sapiens	2024-07-21	0	0	1	0	0	0
+WP2516	https://www.wikipathways.org/instance/WP2516	ATM signaling	Homo sapiens	2024-05-22	0	0	0	0	1	1
+WP3878	https://www.wikipathways.org/instance/WP3878	ATM signaling in development and disease	Homo sapiens	2024-02-27	0	0	0	0	1	1
+WP3875	https://www.wikipathways.org/instance/WP3875	ATR signaling	Homo sapiens	2024-02-15	0	0	0	0	1	0
+WP4923	https://www.wikipathways.org/instance/WP4923	Autophagy	Homo sapiens	2020-05-09	0	1	0	0	1	0
+WP5331	https://www.wikipathways.org/instance/WP5331	Autophagy in pancreatic ductal adenocarcinoma	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4788	https://www.wikipathways.org/instance/WP4788	Autosomal recessive osteopetrosis pathways	Homo sapiens	2024-02-24	0	0	0	0	0	0
+WP5289	https://www.wikipathways.org/instance/WP5289	Axon guidance	Homo sapiens	2024-05-31	0	0	0	0	1	0
+WP23	https://www.wikipathways.org/instance/WP23	B cell receptor signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5234	https://www.wikipathways.org/instance/WP5234	Bardet-Biedl syndrome	Homo sapiens	2024-07-23	0	0	1	1	1	0
+WP4752	https://www.wikipathways.org/instance/WP4752	Base excision repair	Homo sapiens	2023-11-14	0	0	1	0	1	0
+WP3676	https://www.wikipathways.org/instance/WP3676	BDNF-TrkB signaling	Homo sapiens	2024-01-28	0	0	0	0	1	0
+WP3891	https://www.wikipathways.org/instance/WP3891	Benzene metabolism	Homo sapiens	2019-08-16	0	0	0	0	0	0
+WP696	https://www.wikipathways.org/instance/WP696	Benzo(a)pyrene metabolism	Homo sapiens	2019-08-20	0	0	0	0	0	0
+WP4389	https://www.wikipathways.org/instance/WP4389	Bile acid synthesis and enterohepatic circulation	Homo sapiens	2024-05-09	0	1	0	0	0	0
+WP550	https://www.wikipathways.org/instance/WP550	Biogenic amine synthesis	Homo sapiens	2023-04-19	0	0	0	0	1	0
+WP4584	https://www.wikipathways.org/instance/WP4584	Biomarkers for pyrimidine metabolism disorders	Homo sapiens	2021-06-23	0	0	0	0	0	0
+WP4583	https://www.wikipathways.org/instance/WP4583	Biomarkers for urea cycle disorders	Homo sapiens	2019-09-17	0	0	0	0	0	0
+WP4156	https://www.wikipathways.org/instance/WP4156	Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine	Homo sapiens	2024-01-29	0	0	0	0	1	0
+WP5179	https://www.wikipathways.org/instance/WP5179	Biosynthesis and turnover of 1-deoxy-sphingoid bases	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP5031	https://www.wikipathways.org/instance/WP5031	Biotin metabolism, including IMDs	Homo sapiens	2021-06-17	0	0	0	0	1	0
+WP2828	https://www.wikipathways.org/instance/WP2828	Bladder cancer	Homo sapiens	2024-02-12	0	0	0	0	0	0
+WP4580	https://www.wikipathways.org/instance/WP4580	Blood clotting and drug effects	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP272	https://www.wikipathways.org/instance/WP272	Blood clotting cascade	Homo sapiens	2023-11-25	0	0	0	0	0	0
+WP3927	https://www.wikipathways.org/instance/WP3927	BMP signaling in eyelid development	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP3876	https://www.wikipathways.org/instance/WP3876	BMP2-WNT4-FOXO1 pathway in primary endometrial stromal cell differentiation	Homo sapiens	2021-05-07	0	0	0	0	0	0
+WP1425	https://www.wikipathways.org/instance/WP1425	Bone morphogenic protein signaling and regulation	Homo sapiens	2023-04-20	0	0	1	0	1	1
+WP2380	https://www.wikipathways.org/instance/WP2380	Brain-derived neurotrophic factor (BDNF) signaling	Homo sapiens	2024-05-22	0	0	1	0	1	0
+WP4262	https://www.wikipathways.org/instance/WP4262	Breast cancer pathway	Homo sapiens	2024-02-18	0	0	0	0	0	0
+WP5055	https://www.wikipathways.org/instance/WP5055	Burn wound healing	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP2366	https://www.wikipathways.org/instance/WP2366	Butyrate-induced histone acetylation	Homo sapiens	2019-07-08	0	0	1	0	1	0
+WP3633	https://www.wikipathways.org/instance/WP3633	Caffeine and theobromine metabolism	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP5142	https://www.wikipathways.org/instance/WP5142	Calcium mediated T-cell apoptosis involved in inclusion body myositis	Homo sapiens	2024-01-29	0	0	0	0	0	0
+WP536	https://www.wikipathways.org/instance/WP536	Calcium regulation in cardiac cells	Homo sapiens	2024-07-29	0	0	0	0	0	0
+WP4191	https://www.wikipathways.org/instance/WP4191	Caloric restriction and aging	Homo sapiens	2019-08-21	0	0	0	0	0	0
+WP4874	https://www.wikipathways.org/instance/WP4874	CAMKK2 pathway	Homo sapiens	2024-07-26	0	0	0	0	1	0
+WP4582	https://www.wikipathways.org/instance/WP4582	Cancer immunotherapy by CTLA4 blockade	Homo sapiens	2024-01-28	0	0	0	0	0	0
+WP4585	https://www.wikipathways.org/instance/WP4585	Cancer immunotherapy by PD-1 blockade	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP5434	https://www.wikipathways.org/instance/WP5434	Cancer pathways	Homo sapiens	2024-04-23	0	0	0	0	0	0
+WP3869	https://www.wikipathways.org/instance/WP3869	Cannabinoid receptor signaling	Homo sapiens	2021-05-27	0	0	0	0	1	0
+WP3845	https://www.wikipathways.org/instance/WP3845	Canonical and non-canonical Notch signaling	Homo sapiens	2024-01-11	0	0	0	0	1	1
+WP3874	https://www.wikipathways.org/instance/WP3874	Canonical and non-canonical TGF-B signaling	Homo sapiens	2024-01-24	0	0	1	1	1	1
+WP4562	https://www.wikipathways.org/instance/WP4562	Canonical NF-kB pathway	Homo sapiens	2021-05-23	0	0	1	1	1	1
+WP2795	https://www.wikipathways.org/instance/WP2795	Cardiac hypertrophic response	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP2406	https://www.wikipathways.org/instance/WP2406	Cardiac progenitor differentiation	Homo sapiens	2023-11-25	0	0	0	0	0	0
+WP5344	https://www.wikipathways.org/instance/WP5344	Cardiomyocyte signaling converging on titin	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5313	https://www.wikipathways.org/instance/WP5313	Carnosine metabolism of glial cells	Homo sapiens	2023-11-14	0	0	0	0	1	0
+WP5474	https://www.wikipathways.org/instance/WP5474	Catabolism of skeletal muscle in cachexia	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP688	https://www.wikipathways.org/instance/WP688	Catalytic cycle of mammalian flavin-containing monooxygenases (FMOs)	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP5097	https://www.wikipathways.org/instance/WP5097	CCL18 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP179	https://www.wikipathways.org/instance/WP179	Cell cycle	Homo sapiens	2023-09-02	0	0	1	1	1	1
+WP2023	https://www.wikipathways.org/instance/WP2023	Cell differentiation - expanded index	Homo sapiens	2021-05-22	0	0	0	0	1	1
+WP2029	https://www.wikipathways.org/instance/WP2029	Cell differentiation - index	Homo sapiens	2021-11-27	0	0	0	0	1	1
+WP5284	https://www.wikipathways.org/instance/WP5284	Cell interactions of the pancreatic cancer microenvironment	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP5417	https://www.wikipathways.org/instance/WP5417	Cell lineage map for neuronal differentiation	Homo sapiens	2024-02-05	0	0	0	0	1	1
+WP3679	https://www.wikipathways.org/instance/WP3679	Cell-type dependent selectivity of CCK2R signaling	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP4493	https://www.wikipathways.org/instance/WP4493	Cells and molecules involved in local acute inflammatory response	Homo sapiens	2022-01-10	0	0	0	1	0	0
+WP4918	https://www.wikipathways.org/instance/WP4918	Cellular proteostasis	Homo sapiens	2024-02-05	0	0	1	0	1	1
+WP4519	https://www.wikipathways.org/instance/WP4519	Cerebral organic acidurias, including diseases	Homo sapiens	2024-01-29	0	0	0	0	1	0
+WP3929	https://www.wikipathways.org/instance/WP3929	Chemokine signaling	Homo sapiens	2024-05-31	0	0	0	0	1	0
+WP5238	https://www.wikipathways.org/instance/WP5238	Cholestasis	Homo sapiens	2024-07-23	0	1	0	0	0	0
+WP4804	https://www.wikipathways.org/instance/WP4804	Cholesterol biosynthesis with skeletal dysplasias	Homo sapiens	2024-02-12	0	0	0	0	0	0
+WP4216	https://www.wikipathways.org/instance/WP4216	Chromosomal and microsatellite instability in colorectal cancer	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP5283	https://www.wikipathways.org/instance/WP5283	Chronic hyperglycemia impairment of neuron function	Homo sapiens	2024-02-02	0	0	0	0	1	0
+WP4352	https://www.wikipathways.org/instance/WP4352	Ciliary landscape	Homo sapiens	2024-07-28	0	0	1	1	1	0
+WP4803	https://www.wikipathways.org/instance/WP4803	Ciliopathies	Homo sapiens	2024-02-25	0	0	1	1	1	0
+WP3594	https://www.wikipathways.org/instance/WP3594	Circadian rhythm genes	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP4523	https://www.wikipathways.org/instance/WP4523	Classical pathway of steroidogenesis with glucocorticoid and mineralocorticoid metabolism	Homo sapiens	2024-07-21	0	0	1	0	1	0
+WP4018	https://www.wikipathways.org/instance/WP4018	Clear cell renal cell carcinoma pathways	Homo sapiens	2023-09-13	0	0	1	1	0	0
+WP5205	https://www.wikipathways.org/instance/WP5205	Clock-controlled autophagy in bone metabolism	Homo sapiens	2022-12-10	0	0	0	0	0	0
+WP2826	https://www.wikipathways.org/instance/WP2826	Cocaine metabolism	Homo sapiens	2019-09-17	0	0	0	0	0	0
+WP1604	https://www.wikipathways.org/instance/WP1604	Codeine and morphine metabolism	Homo sapiens	2024-01-29	0	0	0	0	0	0
+WP5117	https://www.wikipathways.org/instance/WP5117	Cohesin complex - Cornelia de Lange syndrome	Homo sapiens	2024-03-27	0	0	0	0	1	0
+WP2536	https://www.wikipathways.org/instance/WP2536	Colchicine metabolic pathway	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP2636	https://www.wikipathways.org/instance/WP2636	Common pathways underlying drug addiction	Homo sapiens	2024-05-23	0	0	0	0	0	0
+WP545	https://www.wikipathways.org/instance/WP545	Complement activation	Homo sapiens	2024-01-29	0	0	1	0	0	0
+WP558	https://www.wikipathways.org/instance/WP558	Complement and coagulation cascades	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP2806	https://www.wikipathways.org/instance/WP2806	Complement system	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5090	https://www.wikipathways.org/instance/WP5090	Complement system in neuronal development and plasticity	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5148	https://www.wikipathways.org/instance/WP5148	Complement-mediated inflammation of pulmonary alveolus in COVID-19 (hypothetical pathway)	Homo sapiens	2024-01-31	0	0	0	0	0	0
+WP5101	https://www.wikipathways.org/instance/WP5101	Congenital generalized lipodystrophy	Homo sapiens	2021-06-20	0	0	0	0	0	0
+WP4484	https://www.wikipathways.org/instance/WP4484	Control of immune tolerance by vasoactive intestinal peptide	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP4818	https://www.wikipathways.org/instance/WP4818	Conversion of angiotensinogen to angiotensin II	Homo sapiens	2021-05-22	0	0	1	0	0	0
+WP3286	https://www.wikipathways.org/instance/WP3286	Copper homeostasis	Homo sapiens	2024-01-29	0	0	0	0	0	0
+WP5189	https://www.wikipathways.org/instance/WP5189	Copper metabolism	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP1946	https://www.wikipathways.org/instance/WP1946	Cori cycle	Homo sapiens	2023-04-28	0	0	0	0	0	0
+WP2355	https://www.wikipathways.org/instance/WP2355	Corticotropin-releasing hormone signaling	Homo sapiens	2024-05-22	0	0	0	0	1	0
+WP4891	https://www.wikipathways.org/instance/WP4891	COVID-19 adverse outcome pathway	Homo sapiens	2021-12-10	0	0	0	0	0	0
+WP5256	https://www.wikipathways.org/instance/WP5256	COVID-19 and endothelial cell senescence	Homo sapiens	2022-12-10	0	0	0	0	0	0
+WP5145	https://www.wikipathways.org/instance/WP5145	COVID-19 structural coverage map	Homo sapiens	2024-01-31	0	0	0	0	0	0
+WP4927	https://www.wikipathways.org/instance/WP4927	COVID-19, thrombosis and anticoagulation	Homo sapiens	2022-02-26	0	0	0	0	0	0
+WP5190	https://www.wikipathways.org/instance/WP5190	Creatine pathway	Homo sapiens	2024-01-30	0	0	1	1	1	0
+WP4504	https://www.wikipathways.org/instance/WP4504	Cysteine and methionine catabolism	Homo sapiens	2024-07-27	0	0	1	1	0	0
+WP5473	https://www.wikipathways.org/instance/WP5473	Cytokine-cytokine receptor interaction	Homo sapiens	2024-05-31	0	0	1	1	0	0
+WP530	https://www.wikipathways.org/instance/WP530	Cytokines and inflammatory response	Homo sapiens	2024-03-17	0	0	1	1	0	0
+WP3585	https://www.wikipathways.org/instance/WP3585	Cytosine methylation	Homo sapiens	2019-09-17	0	0	0	0	1	1
+WP4655	https://www.wikipathways.org/instance/WP4655	Cytosolic DNA-sensing pathway	Homo sapiens	2019-07-15	0	0	0	0	0	0
+WP2942	https://www.wikipathways.org/instance/WP2942	DDX1 as a regulatory component of the Drosha microprocessor	Homo sapiens	2021-06-17	0	0	0	0	0	0
+WP4153	https://www.wikipathways.org/instance/WP4153	Degradation pathway of sphingolipids, including diseases	Homo sapiens	2024-03-27	0	0	0	0	1	0
+WP3896	https://www.wikipathways.org/instance/WP3896	Dengue-2 interactions with complement and coagulation cascades	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP2291	https://www.wikipathways.org/instance/WP2291	Deregulation of Rab and Rab effector genes in bladder cancer	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP3893	https://www.wikipathways.org/instance/WP3893	Development and heterogeneity of the ILC family	Homo sapiens	2024-05-11	0	0	0	0	0	0
+WP3892	https://www.wikipathways.org/instance/WP3892	Development of pulmonary dendritic cells and macrophage subsets	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP5053	https://www.wikipathways.org/instance/WP5053	Development of ureteric collection system	Homo sapiens	2024-07-23	0	0	1	1	0	0
+WP2491	https://www.wikipathways.org/instance/WP2491	Diclofenac metabolic pathway	Homo sapiens	2021-05-22	0	0	1	1	0	1
+WP5219	https://www.wikipathways.org/instance/WP5219	Diet-dependent trimethylamine/trimethylamine N-oxide metabolism	Homo sapiens	2023-06-23	0	0	1	0	0	0
+WP2895	https://www.wikipathways.org/instance/WP2895	Differentiation of white and brown adipocyte	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP4931	https://www.wikipathways.org/instance/WP4931	Direct reversal repair	Homo sapiens	2021-05-22	0	0	0	0	1	0
+WP5195	https://www.wikipathways.org/instance/WP5195	Disorders in ketolysis	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP5176	https://www.wikipathways.org/instance/WP5176	Disorders of bile acid synthesis and biliary transport	Homo sapiens	2024-01-30	0	1	0	0	0	0
+WP4875	https://www.wikipathways.org/instance/WP4875	Disruption of postsynaptic signaling by CNV	Homo sapiens	2021-05-07	0	0	0	0	1	0
+WP5389	https://www.wikipathways.org/instance/WP5389	DNA adduct formation leading to kidney failure	Homo sapiens	2024-07-22	0	0	1	1	0	0
+WP707	https://www.wikipathways.org/instance/WP707	DNA damage response	Homo sapiens	2024-02-22	0	0	1	1	1	0
+WP710	https://www.wikipathways.org/instance/WP710	DNA damage response (only ATM dependent)	Homo sapiens	2024-07-18	0	0	0	0	0	0
+WP4016	https://www.wikipathways.org/instance/WP4016	DNA IR-damage and cellular response via ATR	Homo sapiens	2021-12-23	0	0	0	0	0	0
+WP3959	https://www.wikipathways.org/instance/WP3959	DNA IR-double strand breaks and cellular response via ATM	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP531	https://www.wikipathways.org/instance/WP531	DNA mismatch repair	Homo sapiens	2021-05-22	0	0	1	1	1	1
+WP4946	https://www.wikipathways.org/instance/WP4946	DNA repair pathways, full network	Homo sapiens	2021-05-22	0	0	1	1	1	1
+WP466	https://www.wikipathways.org/instance/WP466	DNA replication	Homo sapiens	2024-02-21	0	0	0	0	1	1
+WP5154	https://www.wikipathways.org/instance/WP5154	Docosahexaenoic acid oxylipin metabolism	Homo sapiens	2024-07-27	0	0	0	0	1	0
+WP2436	https://www.wikipathways.org/instance/WP2436	Dopamine metabolism	Homo sapiens	2019-09-17	0	0	0	0	1	0
+WP2855	https://www.wikipathways.org/instance/WP2855	Dopaminergic neurogenesis	Homo sapiens	2023-04-25	0	0	0	0	1	0
+WP4799	https://www.wikipathways.org/instance/WP4799	Downregulation of ACE2 by SARS-CoV-2 spike protein	Homo sapiens	2024-03-07	0	0	1	0	0	0
+WP5200	https://www.wikipathways.org/instance/WP5200	Dravet syndrome	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP2289	https://www.wikipathways.org/instance/WP2289	Drug induction of bile acid pathway	Homo sapiens	2024-02-19	0	1	0	0	0	0
+WP3300	https://www.wikipathways.org/instance/WP3300	Dual hijack model of Vif in HIV infection	Homo sapiens	2018-12-17	0	0	0	0	0	0
+WP5180	https://www.wikipathways.org/instance/WP5180	DYRK1A involvement regarding cell proliferation in brain development	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP4217	https://www.wikipathways.org/instance/WP4217	Ebola virus infection in host	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP262	https://www.wikipathways.org/instance/WP262	Ebstein-Barr virus LMP1 signaling	Homo sapiens	2024-07-22	0	0	1	0	0	0
+WP2858	https://www.wikipathways.org/instance/WP2858	Ectoderm differentiation	Homo sapiens	2021-05-12	0	0	0	0	0	1
+WP3930	https://www.wikipathways.org/instance/WP3930	EDA signaling in hair follicle development	Homo sapiens	2021-05-07	0	0	0	0	0	0
+WP5273	https://www.wikipathways.org/instance/WP5273	Effect of intestinal microbiome on anticoagulant response of vitamin K antagonists	Homo sapiens	2022-12-10	0	0	0	0	0	0
+WP5470	https://www.wikipathways.org/instance/WP5470	Effect of omega-3 PUFA on Huntington's disease pathways	Homo sapiens	2024-07-20	0	0	0	0	0	0
+WP4320	https://www.wikipathways.org/instance/WP4320	Effect of progerin on genes involved in progeria	Homo sapiens	2024-02-23	0	0	0	0	0	0
+WP5443	https://www.wikipathways.org/instance/WP5443	Effects of MFN2 mutation	Homo sapiens	2024-04-23	0	0	0	0	0	0
+WP1995	https://www.wikipathways.org/instance/WP1995	Effects of nitric oxide	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP437	https://www.wikipathways.org/instance/WP437	EGF/EGFR signaling	Homo sapiens	2024-05-22	0	0	1	1	1	1
+WP4806	https://www.wikipathways.org/instance/WP4806	EGFR tyrosine kinase inhibitor resistance	Homo sapiens	2023-08-29	0	0	1	1	1	0
+WP3302	https://www.wikipathways.org/instance/WP3302	eIF5A regulation in response to inhibition of the nuclear export system	Homo sapiens	2016-07-25	0	0	0	0	0	0
+WP3931	https://www.wikipathways.org/instance/WP3931	Embryonic stem cell pluripotency pathways	Homo sapiens	2024-07-21	0	0	0	0	1	1
+WP474	https://www.wikipathways.org/instance/WP474	Endochondral ossification	Homo sapiens	2024-02-24	0	0	0	0	0	0
+WP4808	https://www.wikipathways.org/instance/WP4808	Endochondral ossification with skeletal dysplasias	Homo sapiens	2024-02-24	0	0	0	0	0	0
+WP2853	https://www.wikipathways.org/instance/WP2853	Endoderm differentiation	Homo sapiens	2021-05-07	0	0	0	0	0	0
+WP4155	https://www.wikipathways.org/instance/WP4155	Endometrial cancer	Homo sapiens	2024-02-14	0	0	0	0	0	0
+WP4861	https://www.wikipathways.org/instance/WP4861	Endoplasmic reticulum stress response in coronavirus infection	Homo sapiens	2021-06-05	0	0	0	0	0	0
+WP2197	https://www.wikipathways.org/instance/WP2197	Endothelin pathways	Homo sapiens	2024-07-17	0	0	1	0	0	0
+WP5396	https://www.wikipathways.org/instance/WP5396	Enterohepatic circulation of bile acids	Homo sapiens	2024-02-12	0	1	0	0	0	0
+WP4535	https://www.wikipathways.org/instance/WP4535	Envelope proteins and their potential roles in EDMD physiopathology	Homo sapiens	2024-02-23	0	0	0	0	0	0
+WP5440	https://www.wikipathways.org/instance/WP5440	EPAC1 and PKA reduction of retinal inflammation	Homo sapiens	2024-02-04	0	0	0	0	0	0
+WP4239	https://www.wikipathways.org/instance/WP4239	Epithelial to mesenchymal transition in colorectal cancer	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP581	https://www.wikipathways.org/instance/WP581	EPO receptor signaling	Homo sapiens	2021-05-17	0	0	1	0	0	1
+WP673	https://www.wikipathways.org/instance/WP673	ErbB signaling	Homo sapiens	2024-05-22	0	0	1	0	1	1
+WP3853	https://www.wikipathways.org/instance/WP3853	ERK pathway in Huntington's disease	Homo sapiens	2024-03-10	0	0	0	0	0	0
+WP5235	https://www.wikipathways.org/instance/WP5235	Estradiol regulation in porto-sinusoidal vascular disease	Homo sapiens	2024-01-22	0	0	0	0	0	0
+WP3996	https://www.wikipathways.org/instance/WP3996	Ethanol effects on histone modifications	Homo sapiens	2023-01-30	0	0	0	0	1	1
+WP4269	https://www.wikipathways.org/instance/WP4269	Ethanol metabolism production of ROS by CYP2E1	Homo sapiens	2024-03-16	0	0	0	0	1	0
+WP5030	https://www.wikipathways.org/instance/WP5030	Ethylmalonic encephalopathy	Homo sapiens	2024-01-30	0	0	0	0	1	0
+WP405	https://www.wikipathways.org/instance/WP405	Eukaryotic transcription initiation	Homo sapiens	2023-04-21	0	0	0	0	0	1
+WP3297	https://www.wikipathways.org/instance/WP3297	EV release from cardiac cells and their functional effects	Homo sapiens	2023-12-24	0	0	0	0	0	0
+WP3408	https://www.wikipathways.org/instance/WP3408	Evolocumab mechanism to reduce LDL cholesterol	Homo sapiens	2024-02-17	0	0	0	0	0	0
+WP410	https://www.wikipathways.org/instance/WP410	Exercise-induced circadian regulation	Homo sapiens	2021-05-17	0	0	0	0	0	0
+WP2805	https://www.wikipathways.org/instance/WP2805	exRNA mechanism of action and biogenesis	Homo sapiens	2019-09-05	0	0	0	0	0	0
+WP2870	https://www.wikipathways.org/instance/WP2870	Extracellular vesicle-mediated signaling in recipient cells	Homo sapiens	2024-05-23	0	0	1	0	0	0
+WP4300	https://www.wikipathways.org/instance/WP4300	Extracellular vesicles in the crosstalk of cardiac cells	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP5218	https://www.wikipathways.org/instance/WP5218	Extrafollicular and follicular B cell activation by SARS-CoV-2	Homo sapiens	2024-03-17	0	0	0	0	0	0
+WP4400	https://www.wikipathways.org/instance/WP4400	FABP4 in ovarian cancer	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP3850	https://www.wikipathways.org/instance/WP3850	Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling	Homo sapiens	2022-02-26	0	0	1	0	0	0
+WP5108	https://www.wikipathways.org/instance/WP5108	Familial hyperlipidemia type 1	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5109	https://www.wikipathways.org/instance/WP5109	Familial hyperlipidemia type 2	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5110	https://www.wikipathways.org/instance/WP5110	Familial hyperlipidemia type 3	Homo sapiens	2024-07-17	0	0	0	0	0	0
+WP5111	https://www.wikipathways.org/instance/WP5111	Familial hyperlipidemia type 4	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5112	https://www.wikipathways.org/instance/WP5112	Familial hyperlipidemia type 5	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5102	https://www.wikipathways.org/instance/WP5102	Familial partial lipodystrophy	Homo sapiens	2021-06-20	0	0	0	0	0	0
+WP314	https://www.wikipathways.org/instance/WP314	Fas ligand pathway and stress induction of heat shock proteins	Homo sapiens	2023-04-21	0	1	1	0	0	0
+WP4553	https://www.wikipathways.org/instance/WP4553	FBXL10 enhancement of MAP/ERK signaling in diffuse large B-cell lymphoma	Homo sapiens	2024-07-26	0	0	0	0	0	0
+WP2816	https://www.wikipathways.org/instance/WP2816	Felbamate metabolism	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP5318	https://www.wikipathways.org/instance/WP5318	Female steroid hormones in cardiomyocyte energy metabolism	Homo sapiens	2024-07-25	0	0	0	0	0	0
+WP4313	https://www.wikipathways.org/instance/WP4313	Ferroptosis	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP4790	https://www.wikipathways.org/instance/WP4790	FGF23 signaling in hypophosphatemic rickets and related disorders	Homo sapiens	2024-02-24	0	0	1	1	0	0
+WP4767	https://www.wikipathways.org/instance/WP4767	FGFR3 signaling in chondrocyte proliferation and terminal differentiation	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP5428	https://www.wikipathways.org/instance/WP5428	FGFR4 p.G388R signaling	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP4136	https://www.wikipathways.org/instance/WP4136	Fibrin complement receptor 3 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP4238	https://www.wikipathways.org/instance/WP4238	Flavan-3-ol metabolic pathway	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP5431	https://www.wikipathways.org/instance/WP5431	FLT3 p.Gln640SerfsTer8 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP4966	https://www.wikipathways.org/instance/WP4966	Fluoroacetic acid toxicity	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP1601	https://www.wikipathways.org/instance/WP1601	Fluoropyrimidine activity	Homo sapiens	2023-04-25	0	0	0	0	0	0
+WP306	https://www.wikipathways.org/instance/WP306	Focal adhesion	Homo sapiens	2024-05-31	0	0	1	0	1	1
+WP3932	https://www.wikipathways.org/instance/WP3932	Focal adhesion: PI3K-Akt-mTOR-signaling	Homo sapiens	2024-05-22	0	0	1	0	1	1
+WP1589	https://www.wikipathways.org/instance/WP1589	Folate-alcohol and cancer pathway hypotheses	Homo sapiens	2023-04-28	0	0	0	0	0	0
+WP2035	https://www.wikipathways.org/instance/WP2035	Follicle stimulating hormone (FSH) signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5063	https://www.wikipathways.org/instance/WP5063	FOXP3 in COVID-19	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP4549	https://www.wikipathways.org/instance/WP4549	Fragile X syndrome	Homo sapiens	2024-07-21	0	0	0	0	1	0
+WP5091	https://www.wikipathways.org/instance/WP5091	Frustrated phagocytosis leading to malignant pleural mesothelioma	Homo sapiens	2024-06-26	0	0	0	0	0	0
+WP3407	https://www.wikipathways.org/instance/WP3407	FTO obesity variant mechanism	Homo sapiens	2024-07-16	0	0	0	0	0	0
+WP45	https://www.wikipathways.org/instance/WP45	G1 to S cell cycle control	Homo sapiens	2024-07-28	0	0	0	0	1	1
+WP524	https://www.wikipathways.org/instance/WP524	G13 signaling	Homo sapiens	2024-05-22	0	0	0	0	1	0
+WP4157	https://www.wikipathways.org/instance/WP4157	GABA metabolism (aka GHB)	Homo sapiens	2024-01-30	0	0	1	1	1	0
+WP4159	https://www.wikipathways.org/instance/WP4159	GABA receptor signaling	Homo sapiens	2024-02-20	0	0	0	0	1	0
+WP4970	https://www.wikipathways.org/instance/WP4970	Galanin receptor pathway	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP4518	https://www.wikipathways.org/instance/WP4518	Gamma-glutamyl cycle for the biosynthesis and degradation of glutathione, including diseases	Homo sapiens	2024-01-30	0	0	1	0	0	0
+WP5299	https://www.wikipathways.org/instance/WP5299	Ganglio series sphingolipid metabolism	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP1423	https://www.wikipathways.org/instance/WP1423	Ganglio sphingolipid metabolism	Homo sapiens	2021-05-21	0	0	0	0	0	0
+WP2596	https://www.wikipathways.org/instance/WP2596	Gastric acid production	Homo sapiens	2024-03-12	0	0	0	0	0	0
+WP2361	https://www.wikipathways.org/instance/WP2361	Gastric cancer network 1	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP2363	https://www.wikipathways.org/instance/WP2363	Gastric cancer network 2	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP4659	https://www.wikipathways.org/instance/WP4659	Gastrin signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5143	https://www.wikipathways.org/instance/WP5143	GDNF signaling	Homo sapiens	2021-12-21	0	0	0	0	1	0
+WP4830	https://www.wikipathways.org/instance/WP4830	GDNF/RET signaling axis	Homo sapiens	2023-02-01	0	0	1	1	0	0
+WP2854	https://www.wikipathways.org/instance/WP2854	Gene regulatory network modeling somitogenesis	Homo sapiens	2024-02-05	0	0	0	0	0	1
+WP5033	https://www.wikipathways.org/instance/WP5033	Genes associated with the development of rheumatoid arthritis	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP4823	https://www.wikipathways.org/instance/WP4823	Genes controlling nephrogenesis	Homo sapiens	2021-06-17	0	0	0	0	0	0
+WP4536	https://www.wikipathways.org/instance/WP4536	Genes related to primary cilium development (based on CRISPR)	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP1992	https://www.wikipathways.org/instance/WP1992	Genes targeted by miRNAs in adipocytes	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP5269	https://www.wikipathways.org/instance/WP5269	Genetic causes of porto-sinusoidal vascular disease	Homo sapiens	2024-02-05	0	0	0	0	0	0
+WP2276	https://www.wikipathways.org/instance/WP2276	Glial cell differentiation	Homo sapiens	2024-03-16	0	0	0	0	1	0
+WP2261	https://www.wikipathways.org/instance/WP2261	Glioblastoma signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5452	https://www.wikipathways.org/instance/WP5452	GLP-1 from intestine and pancreas and role in glucose homeostasis	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP5447	https://www.wikipathways.org/instance/WP5447	GLP-1 in pancreatic islet cells	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP5446	https://www.wikipathways.org/instance/WP5446	GLP-1 secretion from intestine to portal vein	Homo sapiens	2024-03-18	0	0	0	0	0	0
+WP5280	https://www.wikipathways.org/instance/WP5280	Glucocorticoid biosynthesis	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP2880	https://www.wikipathways.org/instance/WP2880	Glucocorticoid receptor pathway	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP5211	https://www.wikipathways.org/instance/WP5211	Glucose metabolism in triple-negative breast cancer cells	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP4722	https://www.wikipathways.org/instance/WP4722	Glycerolipids and glycerophospholipids	Homo sapiens	2023-01-18	0	0	0	0	0	0
+WP2533	https://www.wikipathways.org/instance/WP2533	Glycerophospholipid biosynthetic pathway	Homo sapiens	2023-05-11	0	0	0	0	0	0
+WP5028	https://www.wikipathways.org/instance/WP5028	Glycine metabolism, including IMDs	Homo sapiens	2024-01-16	0	0	0	0	0	0
+WP5049	https://www.wikipathways.org/instance/WP5049	Glycolysis in senescence	Homo sapiens	2023-11-15	0	0	1	1	0	0
+WP4815	https://www.wikipathways.org/instance/WP4815	Glycosaminoglycan degradation	Homo sapiens	2020-05-02	0	0	1	0	0	0
+WP5395	https://www.wikipathways.org/instance/WP5395	Glycosaminoglycan synthesis in fibroblasts	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP5292	https://www.wikipathways.org/instance/WP5292	Glycosphingolipid metabolism	Homo sapiens	2024-07-22	0	0	1	0	0	0
+WP4521	https://www.wikipathways.org/instance/WP4521	Glycosylation and related congenital defects	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP5166	https://www.wikipathways.org/instance/WP5166	Glyoxylate metabolism	Homo sapiens	2024-01-30	0	0	1	1	0	0
+WP5437	https://www.wikipathways.org/instance/WP5437	GNAQ pathways in port-wine stain	Homo sapiens	2024-07-29	0	0	0	0	0	0
+WP455	https://www.wikipathways.org/instance/WP455	GPCRs, class A rhodopsin-like	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP501	https://www.wikipathways.org/instance/WP501	GPCRs, class C metabotropic glutamate, pheromone	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP117	https://www.wikipathways.org/instance/WP117	GPCRs, other	Homo sapiens	2021-05-22	0	0	1	0	0	0
+WP4941	https://www.wikipathways.org/instance/WP4941	GPR143 in melanocytes and retinal pigment epithelium cells	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP3958	https://www.wikipathways.org/instance/WP3958	GPR40 pathway	Homo sapiens	2021-05-18	0	0	0	0	0	0
+WP5385	https://www.wikipathways.org/instance/WP5385	Growth factors and hormones in beta cell proliferation	Homo sapiens	2024-02-05	0	0	0	0	0	0
+WP3627	https://www.wikipathways.org/instance/WP3627	Gut-liver indole metabolism	Homo sapiens	2021-06-25	0	0	0	0	0	0
+WP3969	https://www.wikipathways.org/instance/WP3969	H19, Rb-E2F1, and CDK-beta-catenin in colorectal cancer	Homo sapiens	2024-05-11	0	0	0	0	0	0
+WP2840	https://www.wikipathways.org/instance/WP2840	Hair follicle development: cytodifferentiation - stage 3 of 3	Homo sapiens	2024-07-19	0	0	0	0	0	0
+WP2839	https://www.wikipathways.org/instance/WP2839	Hair follicle development: organogenesis - part 2 of 3	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP5426	https://www.wikipathways.org/instance/WP5426	HDAC6 interactions in the central nervous system	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP4674	https://www.wikipathways.org/instance/WP4674	Head and neck squamous cell carcinoma	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP1591	https://www.wikipathways.org/instance/WP1591	Heart development	Homo sapiens	2024-05-09	0	0	0	0	0	0
+WP4249	https://www.wikipathways.org/instance/WP4249	Hedgehog signaling	Homo sapiens	2024-05-22	0	0	0	0	1	1
+WP47	https://www.wikipathways.org/instance/WP47	Hedgehog signaling	Homo sapiens	2024-05-22	0	0	0	0	1	1
+WP2849	https://www.wikipathways.org/instance/WP2849	Hematopoietic stem cell differentiation	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP3657	https://www.wikipathways.org/instance/WP3657	Hematopoietic stem cell gene regulation by GABP alpha/beta complex	Homo sapiens	2023-11-28	0	0	0	0	0	0
+WP561	https://www.wikipathways.org/instance/WP561	Heme biosynthesis	Homo sapiens	2023-01-18	0	0	0	0	0	0
+WP5169	https://www.wikipathways.org/instance/WP5169	Hemesynthesis defects and porphyrias	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP4666	https://www.wikipathways.org/instance/WP4666	Hepatitis B infection	Homo sapiens	2024-05-11	0	0	0	0	0	0
+WP3646	https://www.wikipathways.org/instance/WP3646	Hepatitis C and hepatocellular carcinoma	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP313	https://www.wikipathways.org/instance/WP313	Hepatocyte growth factor receptor signaling	Homo sapiens	2021-06-01	0	0	0	0	0	0
+WP4206	https://www.wikipathways.org/instance/WP4206	Hereditary leiomyomatosis and renal cell carcinoma pathway	Homo sapiens	2021-06-23	0	0	1	1	0	0
+WP2645	https://www.wikipathways.org/instance/WP2645	Heroin metabolism	Homo sapiens	2017-11-21	0	0	0	0	0	0
+WP3924	https://www.wikipathways.org/instance/WP3924	Hfe effect on hepcidin production	Homo sapiens	2018-02-20	0	0	0	0	1	0
+WP2456	https://www.wikipathways.org/instance/WP2456	HIF1A and PPARG regulation of glycolysis	Homo sapiens	2024-07-29	0	0	1	1	0	0
+WP4860	https://www.wikipathways.org/instance/WP4860	Hijack of ubiquitination by SARS-CoV-2	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4751	https://www.wikipathways.org/instance/WP4751	HIPK2 in kidney fibrosis	Homo sapiens	2022-01-04	0	0	1	1	0	0
+WP4540	https://www.wikipathways.org/instance/WP4540	Hippo signaling regulation	Homo sapiens	2024-05-23	0	0	0	0	0	0
+WP4541	https://www.wikipathways.org/instance/WP4541	Hippo-Merlin signaling dysregulation	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP4537	https://www.wikipathways.org/instance/WP4537	Hippo-YAP signaling	Homo sapiens	2023-08-18	0	0	0	0	0	0
+WP5231	https://www.wikipathways.org/instance/WP5231	Hippocampal synaptogenesis and neurogenesis	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP2369	https://www.wikipathways.org/instance/WP2369	Histone modifications	Homo sapiens	2024-02-05	0	0	1	1	1	1
+WP186	https://www.wikipathways.org/instance/WP186	Homologous recombination	Homo sapiens	2023-04-20	0	0	0	0	0	0
+WP4194	https://www.wikipathways.org/instance/WP4194	Hormonal control of pubertal growth spurt	Homo sapiens	2021-06-23	0	0	0	0	0	0
+WP4864	https://www.wikipathways.org/instance/WP4864	Host-pathogen interaction of human coronaviruses - apoptosis	Homo sapiens	2021-05-08	0	0	0	0	0	0
+WP4863	https://www.wikipathways.org/instance/WP4863	Host-pathogen interaction of human coronaviruses - autophagy	Homo sapiens	2021-05-08	0	0	0	0	0	0
+WP4880	https://www.wikipathways.org/instance/WP4880	Host-pathogen interaction of human coronaviruses - interferon induction	Homo sapiens	2024-02-19	0	0	0	0	0	0
+WP4877	https://www.wikipathways.org/instance/WP4877	Host-pathogen interaction of human coronaviruses - MAPK signaling	Homo sapiens	2021-06-22	0	0	0	0	0	0
+WP5445	https://www.wikipathways.org/instance/WP5445	Hunger and satiety	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP516	https://www.wikipathways.org/instance/WP516	Hypertrophy model	Homo sapiens	2023-04-19	0	0	0	0	0	0
+WP3668	https://www.wikipathways.org/instance/WP3668	Hypothesized pathways in pathogenesis of cardiovascular disease	Homo sapiens	2024-02-26	0	0	0	0	0	0
+WP3655	https://www.wikipathways.org/instance/WP3655	Hypothetical craniofacial development pathway	Homo sapiens	2024-03-26	0	0	0	0	0	0
+WP2943	https://www.wikipathways.org/instance/WP2943	Hypoxia-mediated EMT and stemness	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP53	https://www.wikipathways.org/instance/WP53	ID signaling	Homo sapiens	2024-05-22	0	0	0	0	1	0
+WP5414	https://www.wikipathways.org/instance/WP5414	IDO metabolic pathway	Homo sapiens	2024-01-21	0	0	0	0	0	0
+WP2865	https://www.wikipathways.org/instance/WP2865	IL1 and megakaryocytes in obesity	Homo sapiens	2022-01-11	0	0	0	0	0	0
+WP2332	https://www.wikipathways.org/instance/WP2332	IL11 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP2112	https://www.wikipathways.org/instance/WP2112	IL17 signaling	Homo sapiens	2024-05-22	0	1	0	0	0	0
+WP4754	https://www.wikipathways.org/instance/WP4754	IL18 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5422	https://www.wikipathways.org/instance/WP5422	IL19 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5347	https://www.wikipathways.org/instance/WP5347	IL26 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP286	https://www.wikipathways.org/instance/WP286	IL3 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP205	https://www.wikipathways.org/instance/WP205	IL7 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP22	https://www.wikipathways.org/instance/WP22	IL9 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP3640	https://www.wikipathways.org/instance/WP3640	Imatinib and chronic myeloid leukemia	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP5285	https://www.wikipathways.org/instance/WP5285	Immune infiltration in pancreatic cancer	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP4197	https://www.wikipathways.org/instance/WP4197	Immune response to tuberculosis	Homo sapiens	2024-07-18	0	0	0	0	0	0
+WP5120	https://www.wikipathways.org/instance/WP5120	Inclusion body myositis	Homo sapiens	2023-02-14	0	0	0	0	0	0
+WP5336	https://www.wikipathways.org/instance/WP5336	Induction of autophagy and toll-like receptor signaling by graphene oxide	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5198	https://www.wikipathways.org/instance/WP5198	Inflammatory bowel disease signaling	Homo sapiens	2024-05-31	0	0	0	0	0	0
+WP4844	https://www.wikipathways.org/instance/WP4844	Influence of laminopathies on Wnt signaling	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP1438	https://www.wikipathways.org/instance/WP1438	Influenza A virus infection	Homo sapiens	2019-12-11	0	0	0	0	0	0
+WP4301	https://www.wikipathways.org/instance/WP4301	Inhibition of exosome biogenesis and secretion by Manumycin A in CRPC cells	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP3414	https://www.wikipathways.org/instance/WP3414	Initiation of transcription and translation elongation at the HIV-1 LTR	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP3635	https://www.wikipathways.org/instance/WP3635	Insulin signaling in adipocytes (diabetic condition)	Homo sapiens	2021-05-09	0	0	1	0	0	0
+WP3634	https://www.wikipathways.org/instance/WP3634	Insulin signaling in adipocytes (normal condition)	Homo sapiens	2021-05-09	0	0	0	0	0	0
+WP1971	https://www.wikipathways.org/instance/WP1971	Integrated cancer pathway	Homo sapiens	2023-04-28	0	0	0	0	0	0
+WP185	https://www.wikipathways.org/instance/WP185	Integrin-mediated cell adhesion	Homo sapiens	2023-04-20	0	0	0	0	1	1
+WP4559	https://www.wikipathways.org/instance/WP4559	Interactions between immune cells and microRNAs in tumor microenvironment	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP3670	https://www.wikipathways.org/instance/WP3670	Interactions between LOXL4 and oxidative stress pathway	Homo sapiens	2021-05-22	0	0	1	1	0	0
+WP5092	https://www.wikipathways.org/instance/WP5092	Interactions of natural killer cells in pancreatic cancer	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP2916	https://www.wikipathways.org/instance/WP2916	Interactome of polycomb repressive complex 2 (PRC2)	Homo sapiens	2019-05-24	0	0	0	0	0	0
+WP585	https://www.wikipathways.org/instance/WP585	Interferon type I signaling	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4558	https://www.wikipathways.org/instance/WP4558	Interferon-mediated signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP4856	https://www.wikipathways.org/instance/WP4856	Intracellular trafficking proteins involved in CMT neuropathy	Homo sapiens	2024-04-23	0	0	0	0	0	0
+WP4532	https://www.wikipathways.org/instance/WP4532	Intraflagellar transport proteins binding to dynein	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP5372	https://www.wikipathways.org/instance/WP5372	Involvement of δ-secretase in neurodegenerative diseases	Homo sapiens	2024-05-09	0	0	0	0	0	0
+WP229	https://www.wikipathways.org/instance/WP229	Irinotecan pathway	Homo sapiens	2024-02-18	0	0	0	0	0	0
+WP5172	https://www.wikipathways.org/instance/WP5172	Iron metabolism disorders	Homo sapiens	2024-01-30	0	0	1	0	0	0
+WP2007	https://www.wikipathways.org/instance/WP2007	Iron metabolism in placenta	Homo sapiens	2019-09-12	0	0	0	0	0	0
+WP5152	https://www.wikipathways.org/instance/WP5152	Iron-sulfur cluster biogenesis	Homo sapiens	2023-03-25	0	0	0	0	0	0
+WP5311	https://www.wikipathways.org/instance/WP5311	Isoglobo series sphingolipids	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP5358	https://www.wikipathways.org/instance/WP5358	JAK-STAT signaling in the regulation of beta cells	Homo sapiens	2024-02-05	0	0	0	0	0	0
+WP4656	https://www.wikipathways.org/instance/WP4656	Joubert syndrome	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5074	https://www.wikipathways.org/instance/WP5074	Kallmann syndrome	Homo sapiens	2023-11-11	0	0	0	0	0	0
+WP5360	https://www.wikipathways.org/instance/WP5360	KCNQ2-related epilepsies	Homo sapiens	2024-01-24	0	0	0	0	0	0
+WP3933	https://www.wikipathways.org/instance/WP3933	Kennedy pathway from sphingolipids	Homo sapiens	2023-11-09	0	0	0	0	0	0
+WP5089	https://www.wikipathways.org/instance/WP5089	Kinin-Kallikrein pathway	Homo sapiens	2024-03-10	0	0	0	0	0	0
+WP4871	https://www.wikipathways.org/instance/WP4871	Kisspeptin/kisspeptin receptor system in the ovary	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP304	https://www.wikipathways.org/instance/WP304	Kit receptor signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5351	https://www.wikipathways.org/instance/WP5351	Kleefstra syndrome	Homo sapiens	2024-07-25	0	0	0	0	1	0
+WP4236	https://www.wikipathways.org/instance/WP4236	Krebs cycle disorders	Homo sapiens	2024-01-30	0	0	1	1	0	0
+WP5044	https://www.wikipathways.org/instance/WP5044	Kynurenine pathway and links to cell senescence	Homo sapiens	2024-07-22	0	0	1	1	0	0
+WP5239	https://www.wikipathways.org/instance/WP5239	Lac-Phe pathway	Homo sapiens	2022-12-10	0	0	0	0	0	0
+WP5314	https://www.wikipathways.org/instance/WP5314	Lactate shuttle in glial cells	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP5303	https://www.wikipathways.org/instance/WP5303	Lacto series sphingolipid metabolism	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4299	https://www.wikipathways.org/instance/WP4299	Lamin A processing pathway	Homo sapiens	2024-02-23	0	0	0	0	0	0
+WP5272	https://www.wikipathways.org/instance/WP5272	LDL- influence on CD14 and TLR4	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP4904	https://www.wikipathways.org/instance/WP4904	LDLRAD4 and what we know about it	Homo sapiens	2021-12-17	0	0	0	0	0	0
+WP2034	https://www.wikipathways.org/instance/WP2034	Leptin signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP3935	https://www.wikipathways.org/instance/WP3935	Leptin-insulin signaling overlap	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP3299	https://www.wikipathways.org/instance/WP3299	let-7 inhibition of ES cell reprogramming	Homo sapiens	2016-08-12	0	0	0	0	0	0
+WP4686	https://www.wikipathways.org/instance/WP4686	Leucine, isoleucine and valine metabolism	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP4542	https://www.wikipathways.org/instance/WP4542	Leukocyte-intrinsic Hippo pathway functions	Homo sapiens	2021-12-23	0	0	0	0	0	0
+WP5171	https://www.wikipathways.org/instance/WP5171	Leukotriene metabolic pathway	Homo sapiens	2023-02-01	0	0	0	0	1	0
+WP2646	https://www.wikipathways.org/instance/WP2646	Lidocaine metabolism	Homo sapiens	2019-09-17	0	0	0	0	0	1
+WP4853	https://www.wikipathways.org/instance/WP4853	Linoleic acid metabolism affected by SARS-CoV-2	Homo sapiens	2024-02-11	0	0	0	0	0	0
+WP5137	https://www.wikipathways.org/instance/WP5137	Linoleic acid oxylipin metabolism	Homo sapiens	2021-11-17	0	0	0	0	0	0
+WP5149	https://www.wikipathways.org/instance/WP5149	Lipid metabolism in senescent cells	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP4258	https://www.wikipathways.org/instance/WP4258	lncRNA in canonical Wnt signaling and colorectal cancer	Homo sapiens	2023-10-07	0	0	0	0	0	0
+WP3672	https://www.wikipathways.org/instance/WP3672	lncRNA-mediated mechanisms of therapeutic resistance	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP4478	https://www.wikipathways.org/instance/WP4478	LTF danger signal response pathway	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP3624	https://www.wikipathways.org/instance/WP3624	Lung fibrosis	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP5146	https://www.wikipathways.org/instance/WP5146	Lung pathology of COVID-19	Homo sapiens	2024-01-31	0	0	0	0	0	0
+WP4146	https://www.wikipathways.org/instance/WP4146	Macrophage markers	Homo sapiens	2019-10-19	0	0	0	0	0	0
+WP5353	https://www.wikipathways.org/instance/WP5353	Macrophage-stimulating protein (MSP) signaling	Homo sapiens	2024-07-29	0	0	0	0	0	0
+WP4589	https://www.wikipathways.org/instance/WP4589	Major receptors targeted by epinephrine and norepinephrine	Homo sapiens	2024-07-27	0	0	0	0	1	0
+WP4673	https://www.wikipathways.org/instance/WP4673	Male infertility	Homo sapiens	2021-09-17	0	0	0	0	0	0
+WP5320	https://www.wikipathways.org/instance/WP5320	Male steroid hormones in cardiomyocyte energy metabolism	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4842	https://www.wikipathways.org/instance/WP4842	Mammalian disorder of sexual development	Homo sapiens	2024-07-26	0	0	0	0	0	0
+WP2813	https://www.wikipathways.org/instance/WP2813	Mammary gland development pathway - Embryonic development (Stage 1 of 4)	Homo sapiens	2024-02-20	0	0	0	0	0	0
+WP2815	https://www.wikipathways.org/instance/WP2815	Mammary gland development pathway - Involution (Stage 4 of 4)	Homo sapiens	2024-02-20	0	0	0	0	0	0
+WP2814	https://www.wikipathways.org/instance/WP2814	Mammary gland development pathway - Puberty (Stage 2 of 4)	Homo sapiens	2024-02-20	0	0	0	0	0	0
+WP2817	https://www.wikipathways.org/instance/WP2817	Mammary gland development: pregnancy and lactation - stage 3 of 4	Homo sapiens	2024-07-19	0	0	0	0	0	0
+WP4872	https://www.wikipathways.org/instance/WP4872	MAP3K1 role in promoting and blocking gonadal determination	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP3849	https://www.wikipathways.org/instance/WP3849	MAPK and NFkB signaling inhibited by Yersinia YopJ	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP4928	https://www.wikipathways.org/instance/WP4928	MAPK pathway in congenital thyroid cancer	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP5236	https://www.wikipathways.org/instance/WP5236	Markers of kidney cell lineage	Homo sapiens	2024-03-16	0	0	1	1	0	0
+WP129	https://www.wikipathways.org/instance/WP129	Matrix metalloproteinases	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP4829	https://www.wikipathways.org/instance/WP4829	mBDNF and proBDNF regulation of GABA neurotransmission	Homo sapiens	2020-02-28	0	0	0	0	1	0
+WP4630	https://www.wikipathways.org/instance/WP4630	Measles virus infection	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP4534	https://www.wikipathways.org/instance/WP4534	Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP3584	https://www.wikipathways.org/instance/WP3584	MECP2 and associated Rett syndrome	Homo sapiens	2024-01-30	0	0	0	0	1	0
+WP4685	https://www.wikipathways.org/instance/WP4685	Melanoma	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP3298	https://www.wikipathways.org/instance/WP3298	Melatonin metabolism and effects	Homo sapiens	2021-12-22	0	0	0	0	0	0
+WP2857	https://www.wikipathways.org/instance/WP2857	Mesodermal commitment pathway	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP4205	https://www.wikipathways.org/instance/WP4205	MET in type 1 papillary renal cell carcinoma	Homo sapiens	2024-03-28	0	0	1	0	0	0
+WP5105	https://www.wikipathways.org/instance/WP5105	Meta pathway lipodystrophy, dyslipidemia and hyperlipidemia	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5355	https://www.wikipathways.org/instance/WP5355	Metabolic epileptic disorders	Homo sapiens	2024-04-24	0	0	0	0	0	0
+WP5312	https://www.wikipathways.org/instance/WP5312	Metabolic pathways of fibroblasts	Homo sapiens	2023-02-28	0	0	0	0	0	0
+WP4290	https://www.wikipathways.org/instance/WP4290	Metabolic reprogramming in colon cancer	Homo sapiens	2021-05-29	0	0	0	0	0	0
+WP5220	https://www.wikipathways.org/instance/WP5220	Metabolic reprogramming in pancreatic cancer	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP3666	https://www.wikipathways.org/instance/WP3666	Metabolism of dichloroethylene by CYP450	Homo sapiens	2021-05-22	0	0	0	0	0	1
+WP4142	https://www.wikipathways.org/instance/WP4142	Metabolism of sphingolipids in ER and Golgi apparatus	Homo sapiens	2024-02-11	0	0	0	0	0	0
+WP4174	https://www.wikipathways.org/instance/WP4174	Metabolism of tetrahydrocannabinol (THC)	Homo sapiens	2023-02-01	0	0	0	0	0	0
+WP702	https://www.wikipathways.org/instance/WP702	Metapathway biotransformation Phase I and II	Homo sapiens	2023-12-04	0	0	0	0	0	0
+WP2249	https://www.wikipathways.org/instance/WP2249	Metastatic brain tumor	Homo sapiens	2019-10-10	0	0	0	0	0	0
+WP3580	https://www.wikipathways.org/instance/WP3580	Methionine de novo and salvage pathway	Homo sapiens	2023-12-03	0	0	0	0	0	0
+WP4292	https://www.wikipathways.org/instance/WP4292	Methionine metabolism leading to sulfur amino acids and related disorders	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP704	https://www.wikipathways.org/instance/WP704	Methylation pathways	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP4560	https://www.wikipathways.org/instance/WP4560	MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP3301	https://www.wikipathways.org/instance/WP3301	MFAP5-mediated ovarian cancer cell motility and invasiveness	Homo sapiens	2023-08-26	0	0	0	0	0	0
+WP3937	https://www.wikipathways.org/instance/WP3937	Microglia pathogen phagocytosis pathway	Homo sapiens	2022-01-08	0	0	0	0	0	0
+WP3593	https://www.wikipathways.org/instance/WP3593	MicroRNA for targeting cancer growth and vascularization in glioblastoma	Homo sapiens	2024-03-27	0	0	0	0	0	0
+WP4399	https://www.wikipathways.org/instance/WP4399	MicroRNA network associated with chronic lymphocytic leukemia	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP1544	https://www.wikipathways.org/instance/WP1544	MicroRNAs in cardiomyocyte hypertrophy	Homo sapiens	2023-04-28	0	0	0	0	0	0
+WP2038	https://www.wikipathways.org/instance/WP2038	Microtubule cytoskeleton regulation	Homo sapiens	2024-06-25	0	0	1	1	1	1
+WP5279	https://www.wikipathways.org/instance/WP5279	Mineralocorticoid biosynthesis	Homo sapiens	2024-07-23	0	0	1	1	0	0
+WP3595	https://www.wikipathways.org/instance/WP3595	mir-124 predicted interactions with cell cycle and differentiation	Homo sapiens	2016-10-06	0	0	0	0	0	0
+WP3938	https://www.wikipathways.org/instance/WP3938	miR-222 in exercise-induced cardiac growth	Homo sapiens	2021-12-22	0	0	0	0	0	0
+WP3967	https://www.wikipathways.org/instance/WP3967	miR-509-3p alteration of YAP1/ECM axis	Homo sapiens	2019-11-29	0	0	0	0	0	0
+WP3596	https://www.wikipathways.org/instance/WP3596	miR-517 relationship with ARCN1 and USP1	Homo sapiens	2019-08-15	0	0	0	0	0	0
+WP2338	https://www.wikipathways.org/instance/WP2338	miRNA biogenesis	Homo sapiens	2021-05-18	0	0	1	1	1	0
+WP4316	https://www.wikipathways.org/instance/WP4316	miRNA degrading enzymes	Homo sapiens	2022-01-11	0	0	0	0	0	0
+WP1530	https://www.wikipathways.org/instance/WP1530	miRNA regulation of DNA damage response	Homo sapiens	2023-04-28	0	0	0	0	0	0
+WP3982	https://www.wikipathways.org/instance/WP3982	miRNA regulation of p53 pathway in prostate cancer	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP3981	https://www.wikipathways.org/instance/WP3981	miRNA regulation of prostate cancer signaling	Homo sapiens	2024-05-31	0	0	0	0	0	0
+WP4329	https://www.wikipathways.org/instance/WP4329	miRNA role in immune response in sepsis	Homo sapiens	2024-02-22	0	0	1	1	0	0
+WP2911	https://www.wikipathways.org/instance/WP2911	miRNA targets in ECM and membrane receptors	Homo sapiens	2024-01-31	0	0	0	0	0	0
+WP1545	https://www.wikipathways.org/instance/WP1545	miRNAs involved in DNA damage response	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP4324	https://www.wikipathways.org/instance/WP4324	Mitochondrial complex I assembly model OXPHOS system	Homo sapiens	2024-07-28	0	0	1	1	1	1
+WP4944	https://www.wikipathways.org/instance/WP4944	Mitochondrial complex I inhibition leading to chemical-induced Fanconi syndrome	Homo sapiens	2024-03-27	0	0	1	1	0	0
+WP4945	https://www.wikipathways.org/instance/WP4945	Mitochondrial complex I inhibition leading to parkinsonian motor deficits	Homo sapiens	2023-02-28	0	0	1	1	0	0
+WP4920	https://www.wikipathways.org/instance/WP4920	Mitochondrial complex II assembly	Homo sapiens	2021-05-22	0	0	1	1	1	1
+WP4921	https://www.wikipathways.org/instance/WP4921	Mitochondrial complex III assembly	Homo sapiens	2021-05-09	0	0	1	1	1	1
+WP4922	https://www.wikipathways.org/instance/WP4922	Mitochondrial complex IV assembly	Homo sapiens	2021-05-22	0	0	1	1	1	1
+WP4318	https://www.wikipathways.org/instance/WP4318	Mitochondrial fission and fusion	Homo sapiens	2024-07-28	0	0	1	1	0	0
+WP391	https://www.wikipathways.org/instance/WP391	Mitochondrial gene expression	Homo sapiens	2024-07-22	0	0	1	1	1	1
+WP5038	https://www.wikipathways.org/instance/WP5038	Mitochondrial immune response to SARS-CoV-2	Homo sapiens	2024-07-21	0	0	1	1	0	0
+WP4397	https://www.wikipathways.org/instance/WP4397	Model for regulation of MSMP expression in cancer cells and its proangiogenic role in ovarian tumors	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP4485	https://www.wikipathways.org/instance/WP4485	Modified nucleosides derived from tRNA as urinary cancer markers	Homo sapiens	2024-03-27	0	0	0	0	0	0
+WP5192	https://www.wikipathways.org/instance/WP5192	Modulation of PI3K-Akt-mTOR signaling by bioactive sphingolipids	Homo sapiens	2024-07-23	0	0	1	1	1	1
+WP5072	https://www.wikipathways.org/instance/WP5072	Modulators of TCR signaling and T cell activation	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP4507	https://www.wikipathways.org/instance/WP4507	Molybdenum cofactor (Moco) biosynthesis	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP58	https://www.wikipathways.org/instance/WP58	Monoamine GPCRs	Homo sapiens	2024-01-22	0	0	1	1	1	0
+WP727	https://www.wikipathways.org/instance/WP727	Monoamine transport	Homo sapiens	2024-07-16	0	0	0	0	1	0
+WP411	https://www.wikipathways.org/instance/WP411	mRNA processing	Homo sapiens	2023-04-21	0	0	0	0	0	0
+WP5187	https://www.wikipathways.org/instance/WP5187	mRNA vaccine activation of dendritic cell and induction of IFN-1	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP3953	https://www.wikipathways.org/instance/WP3953	mRNA, protein, and metabolite inducation pathway by cyclosporin A	Homo sapiens	2019-08-16	0	0	1	1	0	0
+WP4288	https://www.wikipathways.org/instance/WP4288	MTHFR deficiency	Homo sapiens	2024-01-30	0	0	0	0	1	0
+WP4789	https://www.wikipathways.org/instance/WP4789	Multiple epiphyseal dysplasia and pseudoachondroplasia genes	Homo sapiens	2024-02-24	0	0	0	0	0	0
+WP3877	https://www.wikipathways.org/instance/WP3877	MYD88 distinct input-output pathway	Homo sapiens	2024-01-11	0	0	0	0	0	0
+WP289	https://www.wikipathways.org/instance/WP289	Myometrial relaxation and contraction pathways	Homo sapiens	2023-04-21	0	0	0	0	0	0
+WP5153	https://www.wikipathways.org/instance/WP5153	N-glycan biosynthesis	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP2485	https://www.wikipathways.org/instance/WP2485	NAD biosynthesis II from tryptophan	Homo sapiens	2024-07-29	0	0	0	0	0	0
+WP5046	https://www.wikipathways.org/instance/WP5046	NAD metabolism in oncogene-induced senescence and mitochondrial dysfunction-associated senescence	Homo sapiens	2021-06-07	0	0	0	0	0	0
+WP3630	https://www.wikipathways.org/instance/WP3630	NAD metabolism, sirtuins and aging	Homo sapiens	2024-02-12	0	0	0	0	0	0
+WP3645	https://www.wikipathways.org/instance/WP3645	NAD+ biosynthetic pathways	Homo sapiens	2021-06-04	0	0	1	1	1	1
+WP2507	https://www.wikipathways.org/instance/WP2507	Nanomaterial induced apoptosis	Homo sapiens	2020-05-28	0	0	0	0	0	0
+WP3890	https://www.wikipathways.org/instance/WP3890	Nanomaterial-induced inflammasome activation	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP2509	https://www.wikipathways.org/instance/WP2509	Nanoparticle triggered autophagic cell death	Homo sapiens	2018-11-05	0	0	0	0	0	0
+WP2513	https://www.wikipathways.org/instance/WP2513	Nanoparticle triggered regulated necrosis	Homo sapiens	2021-08-28	0	0	0	0	0	0
+WP2643	https://www.wikipathways.org/instance/WP2643	Nanoparticle-mediated activation of receptor signaling	Homo sapiens	2020-05-28	0	0	0	0	0	0
+WP4336	https://www.wikipathways.org/instance/WP4336	ncRNAs in Wnt signaling in hepatocellular carcinoma	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP4337	https://www.wikipathways.org/instance/WP4337	ncRNAs involved in STAT3 signaling in hepatocellular carcinoma	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP5302	https://www.wikipathways.org/instance/WP5302	Neolacto series sphingolipid metabolism	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4331	https://www.wikipathways.org/instance/WP4331	Neovascularization processes	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP5052	https://www.wikipathways.org/instance/WP5052	Nephrogenesis	Homo sapiens	2024-07-23	0	0	1	1	0	0
+WP4758	https://www.wikipathways.org/instance/WP4758	Nephrotic syndrome	Homo sapiens	2024-03-27	0	0	1	1	0	0
+WP5229	https://www.wikipathways.org/instance/WP5229	Nephrotoxcicity adverse outcome pathway	Homo sapiens	2024-07-23	0	0	1	1	0	0
+WP4747	https://www.wikipathways.org/instance/WP4747	Netrin-UNC5B signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5115	https://www.wikipathways.org/instance/WP5115	Network map of SARS-CoV-2 signaling	Homo sapiens	2024-07-26	0	0	0	0	0	0
+WP4564	https://www.wikipathways.org/instance/WP4564	Neural crest cell migration during development	Homo sapiens	2021-05-22	0	0	0	0	0	1
+WP4565	https://www.wikipathways.org/instance/WP4565	Neural crest cell migration in cancer	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP2064	https://www.wikipathways.org/instance/WP2064	Neural crest differentiation	Homo sapiens	2021-05-18	0	0	0	0	0	1
+WP4577	https://www.wikipathways.org/instance/WP4577	Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway	Homo sapiens	2024-02-05	0	0	0	0	0	0
+WP5265	https://www.wikipathways.org/instance/WP5265	Neurogenesis regulation in the olfactory epithelium	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP4919	https://www.wikipathways.org/instance/WP4919	Neuroinflammation	Homo sapiens	2023-01-18	0	0	0	0	1	0
+WP5083	https://www.wikipathways.org/instance/WP5083	Neuroinflammation and glutamatergic signaling	Homo sapiens	2021-11-30	0	0	0	0	1	0
+WP4220	https://www.wikipathways.org/instance/WP4220	Neurotransmitter disorders	Homo sapiens	2024-02-11	0	0	0	0	1	0
+WP5366	https://www.wikipathways.org/instance/WP5366	NF1 copy number variation syndrome	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP1603	https://www.wikipathways.org/instance/WP1603	Nicotine effect on chromaffin cells	Homo sapiens	2023-06-12	0	0	0	0	0	0
+WP1602	https://www.wikipathways.org/instance/WP1602	Nicotine effect on dopaminergic neurons	Homo sapiens	2023-04-25	0	0	0	0	1	0
+WP1600	https://www.wikipathways.org/instance/WP1600	Nicotine metabolism in liver cells	Homo sapiens	2021-07-08	0	0	0	0	0	0
+WP5119	https://www.wikipathways.org/instance/WP5119	NIPBL role in DNA damage - Cornelia de Lange syndrome	Homo sapiens	2024-03-27	0	0	0	0	1	0
+WP4947	https://www.wikipathways.org/instance/WP4947	Nitric oxide metabolism in cystic fibrosis	Homo sapiens	2021-05-24	0	0	0	0	0	0
+WP4008	https://www.wikipathways.org/instance/WP4008	NO/cGMP/PKG mediated neuroprotection	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP5133	https://www.wikipathways.org/instance/WP5133	Non-classical role of vitamin D	Homo sapiens	2022-02-20	0	0	1	1	0	0
+WP4341	https://www.wikipathways.org/instance/WP4341	Non-genomic actions of 1,25-dihydroxyvitamin D3	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP438	https://www.wikipathways.org/instance/WP438	Non-homologous end joining	Homo sapiens	2023-11-14	0	0	0	0	0	0
+WP4255	https://www.wikipathways.org/instance/WP4255	Non-small cell lung cancer	Homo sapiens	2023-12-03	0	0	0	0	0	0
+WP268	https://www.wikipathways.org/instance/WP268	Notch signaling	Homo sapiens	2023-04-23	0	0	1	1	1	1
+WP61	https://www.wikipathways.org/instance/WP61	Notch signaling	Homo sapiens	2024-05-22	0	0	1	1	1	1
+WP3413	https://www.wikipathways.org/instance/WP3413	NOTCH1 regulation of endothelial cell calcification	Homo sapiens	2021-05-09	0	0	0	0	0	0
+WP3865	https://www.wikipathways.org/instance/WP3865	Novel intracellular components of RIG-I-like receptor pathway	Homo sapiens	2019-09-05	0	0	0	0	0	0
+WP5399	https://www.wikipathways.org/instance/WP5399	NPHP1 deletion syndrome	Homo sapiens	2024-07-25	0	0	1	1	0	0
+WP4357	https://www.wikipathways.org/instance/WP4357	NRF2-ARE regulation	Homo sapiens	2024-07-28	0	0	1	1	1	1
+WP5144	https://www.wikipathways.org/instance/WP5144	NRP1-triggered signaling in pancreatic cancer	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5398	https://www.wikipathways.org/instance/WP5398	NRXN1 deletion syndrome	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5027	https://www.wikipathways.org/instance/WP5027	nsp1 from SARS-CoV-2 inhibits translation initiation in the host cell	Homo sapiens	2021-10-25	0	0	0	0	0	0
+WP4753	https://www.wikipathways.org/instance/WP4753	Nucleotide excision repair	Homo sapiens	2023-11-14	0	0	0	0	0	0
+WP5114	https://www.wikipathways.org/instance/WP5114	Nucleotide excision repair in xeroderma pigmentosum	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP80	https://www.wikipathways.org/instance/WP80	Nucleotide GPCRs	Homo sapiens	2024-01-22	0	0	0	0	0	0
+WP1433	https://www.wikipathways.org/instance/WP1433	Nucleotide-binding oligomerization domain (NOD) pathway	Homo sapiens	2024-07-17	0	0	0	0	0	0
+WP4304	https://www.wikipathways.org/instance/WP4304	Oligodendrocyte specification and differentiation, leading to myelin components for CNS	Homo sapiens	2024-03-28	0	0	0	0	1	0
+WP5424	https://www.wikipathways.org/instance/WP5424	Omega-6-fatty acids in senescence	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP2374	https://www.wikipathways.org/instance/WP2374	Oncostatin M signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP241	https://www.wikipathways.org/instance/WP241	One-carbon metabolism	Homo sapiens	2024-02-21	0	0	0	0	0	0
+WP4487	https://www.wikipathways.org/instance/WP4487	Ophthalmate biosynthesis in hepatocytes	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP5093	https://www.wikipathways.org/instance/WP5093	Opioid receptor pathways	Homo sapiens	2023-04-25	0	0	0	0	1	0
+WP5094	https://www.wikipathways.org/instance/WP5094	Orexin receptor pathway	Homo sapiens	2023-04-15	0	0	0	0	0	0
+WP5373	https://www.wikipathways.org/instance/WP5373	Osteoarthritic chondrocyte hypertrophy	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP4787	https://www.wikipathways.org/instance/WP4787	Osteoblast differentiation and related diseases	Homo sapiens	2023-09-01	0	0	0	0	0	0
+WP322	https://www.wikipathways.org/instance/WP322	Osteoblast signaling	Homo sapiens	2023-04-23	0	0	0	0	0	0
+WP12	https://www.wikipathways.org/instance/WP12	Osteoclast signaling	Homo sapiens	2023-06-12	0	0	0	0	0	0
+WP1434	https://www.wikipathways.org/instance/WP1434	Osteopontin signaling	Homo sapiens	2023-04-21	0	0	0	0	0	0
+WP3971	https://www.wikipathways.org/instance/WP3971	OSX and miRNAs in tooth development	Homo sapiens	2024-01-31	0	0	0	0	0	0
+WP34	https://www.wikipathways.org/instance/WP34	Ovarian infertility	Homo sapiens	2024-04-20	0	0	0	0	0	0
+WP4879	https://www.wikipathways.org/instance/WP4879	Overlap between signal transduction pathways contributing to LMNA laminopathies	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP3287	https://www.wikipathways.org/instance/WP3287	Overview of nanoparticle effects	Homo sapiens	2022-02-26	0	0	0	0	0	0
+WP5095	https://www.wikipathways.org/instance/WP5095	Overview of proinflammatory and profibrotic mediators	Homo sapiens	2024-02-21	0	0	0	0	0	0
+WP623	https://www.wikipathways.org/instance/WP623	Oxidative phosphorylation	Homo sapiens	2024-07-22	0	0	1	1	1	1
+WP2889	https://www.wikipathways.org/instance/WP2889	Oxytocin signaling	Homo sapiens	2024-02-21	0	0	0	0	1	0
+WP400	https://www.wikipathways.org/instance/WP400	p38 MAPK signaling	Homo sapiens	2024-05-22	0	0	0	0	1	1
+WP5409	https://www.wikipathways.org/instance/WP5409	PAFAH1B1 copy number variation	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP4263	https://www.wikipathways.org/instance/WP4263	Pancreatic adenocarcinoma pathway	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP5390	https://www.wikipathways.org/instance/WP5390	Pancreatic cancer subtypes	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP2359	https://www.wikipathways.org/instance/WP2359	Parkin-ubiquitin proteasomal system pathway	Homo sapiens	2021-09-17	0	0	0	0	0	0
+WP2371	https://www.wikipathways.org/instance/WP2371	Parkinson's disease pathway	Homo sapiens	2024-01-31	0	0	0	0	0	0
+WP4884	https://www.wikipathways.org/instance/WP4884	Pathogenesis of SARS-CoV-2 mediated by nsp9-nsp10 complex	Homo sapiens	2021-12-22	0	0	0	0	0	0
+WP2272	https://www.wikipathways.org/instance/WP2272	Pathogenic Escherichia coli infection	Homo sapiens	2021-05-27	0	0	0	0	0	0
+WP5342	https://www.wikipathways.org/instance/WP5342	Pathophysiological roles of DUX4 in FSHD1	Homo sapiens	2024-07-26	0	0	0	0	0	0
+WP3651	https://www.wikipathways.org/instance/WP3651	Pathways affected in adenoid cystic carcinoma	Homo sapiens	2024-07-20	0	0	0	0	0	0
+WP4705	https://www.wikipathways.org/instance/WP4705	Pathways of nucleic acid metabolism and innate immune sensing	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP2526	https://www.wikipathways.org/instance/WP2526	PDGF pathway	Homo sapiens	2022-02-26	0	0	0	0	0	1
+WP3972	https://www.wikipathways.org/instance/WP3972	PDGFR-beta pathway	Homo sapiens	2023-08-29	0	0	0	0	0	0
+WP5043	https://www.wikipathways.org/instance/WP5043	Pentose phosphate pathway in senescent cells	Homo sapiens	2024-07-22	0	0	1	0	0	0
+WP24	https://www.wikipathways.org/instance/WP24	Peptide GPCRs	Homo sapiens	2024-01-21	0	0	0	0	0	0
+WP4873	https://www.wikipathways.org/instance/WP4873	Peroxiredoxin 2 induced ovarian failure	Homo sapiens	2024-07-24	0	0	0	0	0	0
+WP1941	https://www.wikipathways.org/instance/WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	Homo sapiens	2023-04-28	0	0	0	0	0	0
+WP4936	https://www.wikipathways.org/instance/WP4936	Perturbations to host-cell autophagy, induced by SARS-CoV-2 proteins	Homo sapiens	2024-04-13	0	0	0	0	0	0
+WP136	https://www.wikipathways.org/instance/WP136	Phase I biotransformations, non-P450	Homo sapiens	2024-01-29	0	0	1	0	0	0
+WP5411	https://www.wikipathways.org/instance/WP5411	Phosphatidyl inositol phosphate pathway	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4195	https://www.wikipathways.org/instance/WP4195	Phosphatidylcholine catabolism	Homo sapiens	2018-11-12	0	0	0	0	0	0
+WP4222	https://www.wikipathways.org/instance/WP4222	Phosphodiesterases in neuronal function	Homo sapiens	2024-06-08	0	0	0	0	1	0
+WP4971	https://www.wikipathways.org/instance/WP4971	Phosphoinositides metabolism	Homo sapiens	2024-07-23	0	0	1	0	0	0
+WP3611	https://www.wikipathways.org/instance/WP3611	Photodynamic therapy-induced AP-1 survival signaling	Homo sapiens	2021-12-09	0	0	0	0	0	0
+WP3614	https://www.wikipathways.org/instance/WP3614	Photodynamic therapy-induced HIF-1 survival signaling	Homo sapiens	2019-09-06	0	0	0	0	0	0
+WP3617	https://www.wikipathways.org/instance/WP3617	Photodynamic therapy-induced NF-kB survival signaling	Homo sapiens	2024-02-22	0	0	0	0	0	0
+WP3612	https://www.wikipathways.org/instance/WP3612	Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling	Homo sapiens	2023-01-18	0	0	0	0	0	0
+WP3613	https://www.wikipathways.org/instance/WP3613	Photodynamic therapy-induced unfolded protein response	Homo sapiens	2019-09-06	0	0	0	0	0	0
+WP3680	https://www.wikipathways.org/instance/WP3680	Physico-chemical features and toxicity-associated pathways	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP1528	https://www.wikipathways.org/instance/WP1528	Physiological and pathological hypertrophy of the heart	Homo sapiens	2024-03-07	0	0	0	0	0	0
+WP3844	https://www.wikipathways.org/instance/WP3844	PI3K-AKT-mTOR signaling and therapeutic opportunities in prostate cancer	Homo sapiens	2024-05-11	0	0	0	0	0	0
+WP4141	https://www.wikipathways.org/instance/WP4141	PI3K/AKT/mTOR - vitamin D3 signaling	Homo sapiens	2021-05-07	0	0	1	1	0	0
+WP2253	https://www.wikipathways.org/instance/WP2253	Pilocytic astrocytoma	Homo sapiens	2024-05-23	0	0	0	0	0	0
+WP4760	https://www.wikipathways.org/instance/WP4760	PKC-gamma calcium signaling in ataxia	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP4462	https://www.wikipathways.org/instance/WP4462	Platelet-mediated interactions with vascular and circulating cells	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP5087	https://www.wikipathways.org/instance/WP5087	Pleural mesothelioma	Homo sapiens	2023-09-30	0	0	0	0	0	0
+WP2848	https://www.wikipathways.org/instance/WP2848	Pluripotent stem cell differentiation pathway	Homo sapiens	2024-07-21	0	0	0	0	1	0
+WP2571	https://www.wikipathways.org/instance/WP2571	Polycystic kidney disease pathway	Homo sapiens	2024-06-08	0	0	1	1	0	0
+WP5485	https://www.wikipathways.org/instance/WP5485	Post-COVID neuroinflammation	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP3998	https://www.wikipathways.org/instance/WP3998	Prader-Willi and Angelman syndrome	Homo sapiens	2024-07-24	0	0	0	0	1	0
+WP3527	https://www.wikipathways.org/instance/WP3527	Pre-implantation embryo	Homo sapiens	2023-05-25	0	0	0	0	0	0
+WP2572	https://www.wikipathways.org/instance/WP2572	Primary focal segmental glomerulosclerosis (FSGS)	Homo sapiens	2021-06-22	0	0	1	1	0	0
+WP5316	https://www.wikipathways.org/instance/WP5316	Primary ovarian insufficiency	Homo sapiens	2023-11-09	0	0	0	0	0	0
+WP3995	https://www.wikipathways.org/instance/WP3995	Prion disease pathway	Homo sapiens	2024-04-25	0	0	0	0	0	0
+WP5182	https://www.wikipathways.org/instance/WP5182	Pro-survival signaling of neuroprotectin D1	Homo sapiens	2022-12-10	0	0	0	0	0	0
+WP5103	https://www.wikipathways.org/instance/WP5103	Progeria-associated lipodystrophy	Homo sapiens	2021-06-20	0	0	0	0	0	0
+WP2037	https://www.wikipathways.org/instance/WP2037	Prolactin signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5026	https://www.wikipathways.org/instance/WP5026	Proline and hydroxyproline pathways	Homo sapiens	2024-01-29	0	0	0	0	0	0
+WP5122	https://www.wikipathways.org/instance/WP5122	Prostaglandin and leukotriene metabolism in senescence	Homo sapiens	2021-07-02	0	0	1	1	0	0
+WP5321	https://www.wikipathways.org/instance/WP5321	Prostaglandin and leukotriene metabolism in senescence	Homo sapiens	2024-07-22	0	0	1	1	0	0
+WP183	https://www.wikipathways.org/instance/WP183	Proteasome degradation	Homo sapiens	2021-05-16	0	0	0	0	0	0
+WP3980	https://www.wikipathways.org/instance/WP3980	Protein alkylation leading to liver fibrosis	Homo sapiens	2023-02-28	0	0	0	0	0	0
+WP4784	https://www.wikipathways.org/instance/WP4784	Proteoglycan biosynthesis	Homo sapiens	2024-02-24	0	0	0	0	0	0
+WP4917	https://www.wikipathways.org/instance/WP4917	Proximal tubule transport	Homo sapiens	2024-07-26	0	0	1	1	0	0
+WP5199	https://www.wikipathways.org/instance/WP5199	PtdIns(4,5)P2 in cytokinesis pathway	Homo sapiens	2023-02-01	0	0	0	0	0	0
+WP4147	https://www.wikipathways.org/instance/WP4147	PTF1A related regulatory pathway	Homo sapiens	2017-09-06	0	0	0	0	0	0
+WP4792	https://www.wikipathways.org/instance/WP4792	Purine metabolism	Homo sapiens	2024-07-24	0	0	0	0	0	0
+WP4224	https://www.wikipathways.org/instance/WP4224	Purine metabolism and related disorders	Homo sapiens	2024-07-21	0	0	0	0	0	0
+WP4900	https://www.wikipathways.org/instance/WP4900	Purinergic signaling	Homo sapiens	2024-07-26	0	0	0	0	0	0
+WP4022	https://www.wikipathways.org/instance/WP4022	Pyrimidine metabolism	Homo sapiens	2023-04-22	0	0	0	0	0	0
+WP4225	https://www.wikipathways.org/instance/WP4225	Pyrimidine metabolism and related diseases	Homo sapiens	2024-01-30	0	0	0	0	0	0
+WP2435	https://www.wikipathways.org/instance/WP2435	Quercetin and Nf-kB / AP-1 induced apoptosis	Homo sapiens	2024-07-19	0	0	0	0	0	0
+WP3303	https://www.wikipathways.org/instance/WP3303	RAC1/PAK1/p38/MMP2 pathway	Homo sapiens	2024-07-16	0	0	0	0	0	0
+WP2290	https://www.wikipathways.org/instance/WP2290	RalA downstream regulated genes	Homo sapiens	2015-04-29	0	0	0	0	0	0
+WP2018	https://www.wikipathways.org/instance/WP2018	RANKL/RANK signaling	Homo sapiens	2024-07-17	0	0	0	0	0	0
+WP4969	https://www.wikipathways.org/instance/WP4969	RAS and bradykinin pathways in COVID-19	Homo sapiens	2024-03-14	0	0	0	0	0	0
+WP4223	https://www.wikipathways.org/instance/WP4223	Ras signaling	Homo sapiens	2023-10-12	0	0	0	0	1	1
+WP5471	https://www.wikipathways.org/instance/WP5471	Receptor tyrosine kinase (RTK) family	Homo sapiens	2024-05-23	0	0	0	0	0	0
+WP4838	https://www.wikipathways.org/instance/WP4838	Regucalcin in proximal tubule epithelial kidney cells	Homo sapiens	2024-07-24	0	0	1	1	0	0
+WP51	https://www.wikipathways.org/instance/WP51	Regulation of actin cytoskeleton	Homo sapiens	2024-01-22	0	0	0	0	0	1
+WP3872	https://www.wikipathways.org/instance/WP3872	Regulation of apoptosis by parathyroid hormone-related protein	Homo sapiens	2024-02-15	0	0	0	0	0	0
+WP4240	https://www.wikipathways.org/instance/WP4240	Regulation of sister chromatid separation at the metaphase-anaphase transition	Homo sapiens	2023-09-30	0	0	0	0	0	0
+WP3664	https://www.wikipathways.org/instance/WP3664	Regulation of Wnt / B-catenin signaling by small molecule compounds	Homo sapiens	2021-05-24	0	0	0	0	0	1
+WP4538	https://www.wikipathways.org/instance/WP4538	Regulatory circuits of STAT3 signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP4483	https://www.wikipathways.org/instance/WP4483	Relationship between inflammation, COX-2 and EGFR	Homo sapiens	2024-07-27	0	0	1	1	0	0
+WP4756	https://www.wikipathways.org/instance/WP4756	Renin-angiotensin-aldosterone system (RAAS)	Homo sapiens	2024-07-29	0	0	1	1	0	0
+WP4481	https://www.wikipathways.org/instance/WP4481	Resistin as a regulator of inflammation	Homo sapiens	2022-02-26	0	0	0	0	0	0
+WP5191	https://www.wikipathways.org/instance/WP5191	Resolvin E1 and resolvin D1 signaling decrease inflammation	Homo sapiens	2024-05-14	0	0	0	0	0	0
+WP2446	https://www.wikipathways.org/instance/WP2446	Retinoblastoma gene in cancer	Homo sapiens	2021-05-08	0	0	0	0	0	0
+WP5188	https://www.wikipathways.org/instance/WP5188	Retinol metabolism	Homo sapiens	2023-02-14	0	0	0	0	0	1
+WP4312	https://www.wikipathways.org/instance/WP4312	Rett syndrome	Homo sapiens	2024-07-21	0	0	0	0	1	0
+WP5037	https://www.wikipathways.org/instance/WP5037	Riboflavin and CoQ disorders	Homo sapiens	2024-02-11	0	0	0	0	0	0
+WP3873	https://www.wikipathways.org/instance/WP3873	RIOK1 and RIOK2 in EGFR- and PI3K-mediated tumorigenesis	Homo sapiens	2024-01-18	0	0	0	0	0	0
+WP3943	https://www.wikipathways.org/instance/WP3943	ROBO4 and VEGF signaling crosstalk	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP4486	https://www.wikipathways.org/instance/WP4486	Role of carnosine in muscle contraction	Homo sapiens	2021-06-23	0	0	0	0	0	0
+WP5181	https://www.wikipathways.org/instance/WP5181	Roles of ceramides in development of insulin resistance	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5258	https://www.wikipathways.org/instance/WP5258	ROS in COVID-19 endothelial dysfunction	Homo sapiens	2024-07-18	0	0	0	0	0	0
+WP5367	https://www.wikipathways.org/instance/WP5367	Rubinstein-Taybi syndrome 1	Homo sapiens	2024-03-27	0	0	0	0	0	0
+WP26	https://www.wikipathways.org/instance/WP26	S1P receptor signal transduction	Homo sapiens	2023-04-21	0	0	0	0	0	0
+WP4912	https://www.wikipathways.org/instance/WP4912	SARS coronavirus and innate immunity	Homo sapiens	2024-07-26	0	0	0	0	0	0
+WP5065	https://www.wikipathways.org/instance/WP5065	SARS-CoV-2 altering angiogenesis via NRP1	Homo sapiens	2021-06-03	0	0	0	0	0	0
+WP4883	https://www.wikipathways.org/instance/WP4883	SARS-CoV-2 and ACE2 receptor: molecular mechanisms	Homo sapiens	2021-12-19	0	0	0	0	0	0
+WP4846	https://www.wikipathways.org/instance/WP4846	SARS-CoV-2 and COVID-19 pathway	Homo sapiens	2021-12-17	0	0	0	0	0	0
+WP5116	https://www.wikipathways.org/instance/WP5116	SARS-CoV-2 B.1.1.7 variant antagonises innate immune activation	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5039	https://www.wikipathways.org/instance/WP5039	SARS-CoV-2 innate immunity evasion and cell-specific immune response	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP5183	https://www.wikipathways.org/instance/WP5183	SARS-CoV-2 mitochondrial chronic oxidative stress and endothelial dysfunction	Homo sapiens	2024-07-23	0	0	0	0	0	0
+WP5156	https://www.wikipathways.org/instance/WP5156	SARS-CoV-2 replication organelle formation	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP4030	https://www.wikipathways.org/instance/WP4030	SCFA and skeletal muscle substrate metabolism	Homo sapiens	2017-08-04	0	0	0	0	0	0
+WP5315	https://www.wikipathways.org/instance/WP5315	Sebaleic acid formation and metabolism	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP2597	https://www.wikipathways.org/instance/WP2597	Secretion of hydrochloric acid in parietal cells	Homo sapiens	2024-03-12	0	0	0	0	0	0
+WP4494	https://www.wikipathways.org/instance/WP4494	Selective expression of chemokine receptors during T-cell polarization	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP28	https://www.wikipathways.org/instance/WP28	Selenium metabolism and selenoproteins	Homo sapiens	2024-05-03	0	0	0	0	1	0
+WP15	https://www.wikipathways.org/instance/WP15	Selenium micronutrient network	Homo sapiens	2023-01-18	0	0	0	0	0	0
+WP3391	https://www.wikipathways.org/instance/WP3391	Senescence-associated secretory phenotype (SASP)	Homo sapiens	2024-05-14	0	0	1	1	0	0
+WP3947	https://www.wikipathways.org/instance/WP3947	Serotonin and anxiety	Homo sapiens	2024-03-10	0	0	1	1	0	0
+WP3944	https://www.wikipathways.org/instance/WP3944	Serotonin and anxiety-related events	Homo sapiens	2024-03-10	0	0	0	0	0	0
+WP722	https://www.wikipathways.org/instance/WP722	Serotonin HTR1 group and FOS pathway	Homo sapiens	2023-03-07	0	0	0	0	0	0
+WP732	https://www.wikipathways.org/instance/WP732	Serotonin receptor 2 and ELK-SRF/GATA4 signaling	Homo sapiens	2023-03-07	0	0	1	1	0	0
+WP734	https://www.wikipathways.org/instance/WP734	Serotonin receptor 4/6/7 and NR3C signaling	Homo sapiens	2023-03-07	0	0	0	0	0	0
+WP1455	https://www.wikipathways.org/instance/WP1455	Serotonin transporter activity	Homo sapiens	2023-04-24	0	0	0	0	1	0
+WP5151	https://www.wikipathways.org/instance/WP5151	Sialylation	Homo sapiens	2024-07-27	0	0	0	0	1	0
+WP5294	https://www.wikipathways.org/instance/WP5294	Sildenafil treatment	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP3591	https://www.wikipathways.org/instance/WP3591	Sleep regulation	Homo sapiens	2016-08-05	0	0	0	0	0	0
+WP4658	https://www.wikipathways.org/instance/WP4658	Small cell lung cancer	Homo sapiens	2023-09-30	0	0	0	0	0	0
+WP247	https://www.wikipathways.org/instance/WP247	Small ligand GPCRs	Homo sapiens	2023-04-23	0	0	0	0	1	0
+WP5118	https://www.wikipathways.org/instance/WP5118	SMC1/SMC3 role in DNA damage - Cornelia de Lange Syndrome	Homo sapiens	2024-03-27	0	0	0	0	0	0
+WP5381	https://www.wikipathways.org/instance/WP5381	Smith-Magenis and Potocki-Lupski syndrome copy number variation	Homo sapiens	2024-07-22	0	0	0	0	1	0
+WP5076	https://www.wikipathways.org/instance/WP5076	Soluble ACE2-mediated cell entry of SARS-CoV-2	Homo sapiens	2021-06-03	0	0	0	0	0	0
+WP4814	https://www.wikipathways.org/instance/WP4814	Somatic sex determination	Homo sapiens	2021-05-07	0	0	0	0	0	0
+WP4186	https://www.wikipathways.org/instance/WP4186	Somatroph axis (GH) and its relationship to dietary restriction and aging	Homo sapiens	2019-08-15	0	0	0	0	0	0
+WP4785	https://www.wikipathways.org/instance/WP4785	Somitogenesis in the context of spondylocostal dysostosis	Homo sapiens	2024-02-24	0	0	0	0	0	0
+WP5121	https://www.wikipathways.org/instance/WP5121	Sphingolipid metabolism in senescence	Homo sapiens	2023-11-28	0	0	0	0	0	0
+WP4725	https://www.wikipathways.org/instance/WP4725	Sphingolipid metabolism overview	Homo sapiens	2024-02-04	0	0	0	0	0	0
+WP4726	https://www.wikipathways.org/instance/WP4726	Sphingolipid metabolism: integrated pathway	Homo sapiens	2023-01-18	0	0	0	0	0	0
+WP1422	https://www.wikipathways.org/instance/WP1422	Sphingolipid pathway	Homo sapiens	2021-05-27	0	0	1	1	0	0
+WP5150	https://www.wikipathways.org/instance/WP5150	Spina bifida	Homo sapiens	2024-07-23	0	0	0	0	0	1
+WP2431	https://www.wikipathways.org/instance/WP2431	Spinal cord injury	Homo sapiens	2024-05-31	0	0	0	0	0	0
+WP4148	https://www.wikipathways.org/instance/WP4148	Splicing factor NOVA regulated synaptic proteins	Homo sapiens	2020-05-28	0	0	0	0	0	0
+WP1991	https://www.wikipathways.org/instance/WP1991	SRF and miRs in smooth muscle differentiation and proliferation	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP5277	https://www.wikipathways.org/instance/WP5277	Steroid hormone precursor biosynthesis	Homo sapiens	2024-02-12	0	0	0	0	0	0
+WP4961	https://www.wikipathways.org/instance/WP4961	STING pathway in Kawasaki-like disease and COVID-19	Homo sapiens	2024-03-27	0	0	0	0	0	0
+WP383	https://www.wikipathways.org/instance/WP383	Striated muscle contraction pathway	Homo sapiens	2024-02-15	0	0	0	0	0	0
+WP706	https://www.wikipathways.org/instance/WP706	Sudden infant death syndrome (SIDS) susceptibility pathways	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP5368	https://www.wikipathways.org/instance/WP5368	Sulfatase and aromatase pathway	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP692	https://www.wikipathways.org/instance/WP692	Sulfation biotransformation reaction	Homo sapiens	2023-04-18	0	0	0	0	0	0
+WP2542	https://www.wikipathways.org/instance/WP2542	Sulindac metabolic pathway	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP4479	https://www.wikipathways.org/instance/WP4479	Suppression of HMGB1-mediated inflammation by THBD	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP4539	https://www.wikipathways.org/instance/WP4539	Synaptic signaling associated with autism spectrum disorder	Homo sapiens	2024-05-09	0	0	0	0	1	0
+WP2267	https://www.wikipathways.org/instance/WP2267	Synaptic vesicle pathway	Homo sapiens	2024-01-24	0	0	0	0	1	0
+WP5194	https://www.wikipathways.org/instance/WP5194	Synthesis of ceramides and 1-deoxyceramides	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP5078	https://www.wikipathways.org/instance/WP5078	T cell modulation in pancreatic cancer	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP2583	https://www.wikipathways.org/instance/WP2583	T cell receptor and co-stimulatory signaling	Homo sapiens	2021-05-18	0	0	0	0	0	0
+WP5098	https://www.wikipathways.org/instance/WP5098	T-cell activation SARS-CoV-2	Homo sapiens	2024-03-16	0	0	0	0	0	0
+WP3863	https://www.wikipathways.org/instance/WP3863	T-cell antigen receptor (TCR) pathway during Staphylococcus aureus infection	Homo sapiens	2024-01-18	0	0	0	0	0	0
+WP69	https://www.wikipathways.org/instance/WP69	T-cell receptor signaling	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP691	https://www.wikipathways.org/instance/WP691	Tamoxifen metabolism	Homo sapiens	2024-07-22	0	0	1	0	0	0
+WP5362	https://www.wikipathways.org/instance/WP5362	TAR syndrome	Homo sapiens	2024-07-25	0	0	0	0	0	0
+WP1471	https://www.wikipathways.org/instance/WP1471	Target of rapamycin signaling	Homo sapiens	2023-04-24	0	0	1	1	1	0
+WP5050	https://www.wikipathways.org/instance/WP5050	TCA cycle in senescence	Homo sapiens	2023-01-18	0	0	1	1	0	0
+WP2868	https://www.wikipathways.org/instance/WP2868	TCA cycle nutrient use and invasiveness of ovarian cancer	Homo sapiens	2024-02-18	0	0	0	0	0	0
+WP560	https://www.wikipathways.org/instance/WP560	TGF-beta receptor signaling	Homo sapiens	2023-04-19	0	0	1	1	1	1
+WP4816	https://www.wikipathways.org/instance/WP4816	TGF-beta receptor signaling in skeletal dysplasias	Homo sapiens	2024-02-24	0	0	0	0	0	1
+WP3859	https://www.wikipathways.org/instance/WP3859	TGF-beta signaling in thyroid cells for epithelial-mesenchymal transition	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP366	https://www.wikipathways.org/instance/WP366	TGF-beta signaling pathway	Homo sapiens	2021-12-23	0	0	1	1	0	1
+WP5382	https://www.wikipathways.org/instance/WP5382	TGFB / Smad signaling	Homo sapiens	2024-05-22	0	0	1	1	1	1
+WP3674	https://www.wikipathways.org/instance/WP3674	Tgif disruption of Shh signaling	Homo sapiens	2021-05-22	0	0	0	0	1	1
+WP5130	https://www.wikipathways.org/instance/WP5130	Th17 cell differentiation pathway	Homo sapiens	2024-07-26	0	0	0	0	0	0
+WP4321	https://www.wikipathways.org/instance/WP4321	Thermogenesis	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP4297	https://www.wikipathways.org/instance/WP4297	Thiamine metabolic pathways	Homo sapiens	2024-03-17	0	0	0	0	0	0
+WP2203	https://www.wikipathways.org/instance/WP2203	Thymic stromal lymphopoietin (TSLP) signaling	Homo sapiens	2024-07-28	0	0	0	0	0	0
+WP5227	https://www.wikipathways.org/instance/WP5227	Thyroid hormone imbalance leading to neurodevelopmental abnormalities	Homo sapiens	2024-07-23	0	0	0	0	1	0
+WP4746	https://www.wikipathways.org/instance/WP4746	Thyroid hormones production and peripheral downstream signaling effects	Homo sapiens	2024-02-22	0	0	0	0	1	0
+WP2032	https://www.wikipathways.org/instance/WP2032	Thyroid stimulating hormone (TSH) signaling	Homo sapiens	2024-05-22	0	0	0	0	1	0
+WP1981	https://www.wikipathways.org/instance/WP1981	Thyroxine (thyroid hormone) production	Homo sapiens	2024-02-21	0	0	0	0	0	0
+WP3851	https://www.wikipathways.org/instance/WP3851	TLR4 signaling and tolerance	Homo sapiens	2022-02-26	0	0	0	0	0	0
+WP2036	https://www.wikipathways.org/instance/WP2036	TNF-related weak inducer of apoptosis (TWEAK) signaling	Homo sapiens	2024-05-22	0	0	1	1	0	0
+WP75	https://www.wikipathways.org/instance/WP75	Toll-like receptor signaling	Homo sapiens	2024-05-22	0	0	1	1	0	0
+WP3858	https://www.wikipathways.org/instance/WP3858	Toll-like receptor signaling related to MyD88	Homo sapiens	2021-05-22	0	0	0	0	0	0
+WP1742	https://www.wikipathways.org/instance/WP1742	TP53 network	Homo sapiens	2024-07-28	0	0	0	0	0	1
+WP2333	https://www.wikipathways.org/instance/WP2333	Trans-sulfuration pathway	Homo sapiens	2013-10-24	0	0	0	0	0	0
+WP2525	https://www.wikipathways.org/instance/WP2525	Trans-sulfuration, one-carbon metabolism and related pathways	Homo sapiens	2021-05-08	0	0	0	0	0	0
+WP4533	https://www.wikipathways.org/instance/WP4533	Transcription co-factors SKI and SKIL protein partners	Homo sapiens	2019-02-25	0	0	0	0	0	0
+WP1559	https://www.wikipathways.org/instance/WP1559	Transcription factors regulate miRNAs related to cardiac hypertrophy	Homo sapiens	2023-04-28	0	0	0	0	0	0
+WP107	https://www.wikipathways.org/instance/WP107	Translation factors	Homo sapiens	2023-04-20	0	0	0	0	0	0
+WP4566	https://www.wikipathways.org/instance/WP4566	Translation inhibitors in chronically activated PDGFRA cells	Homo sapiens	2024-07-27	0	0	0	0	0	0
+WP5300	https://www.wikipathways.org/instance/WP5300	TROP2 regulatory signaling	Homo sapiens	2024-07-18	0	0	0	0	0	0
+WP4210	https://www.wikipathways.org/instance/WP4210	Tryptophan catabolism leading to NAD+ production	Homo sapiens	2018-01-31	0	0	0	0	0	0
+WP465	https://www.wikipathways.org/instance/WP465	Tryptophan metabolism	Homo sapiens	2021-06-23	0	0	0	0	0	0
+WP4204	https://www.wikipathways.org/instance/WP4204	Tumor suppressor activity of SMARCB1	Homo sapiens	2019-12-04	0	0	0	0	0	0
+WP4241	https://www.wikipathways.org/instance/WP4241	Type 2 papillary renal cell carcinoma	Homo sapiens	2024-07-15	0	0	1	1	0	0
+WP4786	https://www.wikipathways.org/instance/WP4786	Type I collagen synthesis in the context of osteogenesis imperfecta	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP4868	https://www.wikipathways.org/instance/WP4868	Type I interferon induction and signaling during SARS-CoV-2 infection	Homo sapiens	2023-02-07	0	0	0	0	0	0
+WP1584	https://www.wikipathways.org/instance/WP1584	Type II diabetes mellitus	Homo sapiens	2024-02-05	0	0	0	0	0	0
+WP619	https://www.wikipathways.org/instance/WP619	Type II interferon signaling	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP2113	https://www.wikipathways.org/instance/WP2113	Type III interferon signaling	Homo sapiens	2019-08-15	0	0	0	0	0	0
+WP3945	https://www.wikipathways.org/instance/WP3945	TYROBP causal network in microglia	Homo sapiens	2024-07-16	0	0	0	0	0	0
+WP4506	https://www.wikipathways.org/instance/WP4506	Tyrosine metabolism and related disorders	Homo sapiens	2024-01-29	0	0	0	0	0	0
+WP5394	https://www.wikipathways.org/instance/WP5394	UDP-derived sugars synthesis in fibroblasts	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP5174	https://www.wikipathways.org/instance/WP5174	Ulcerative colitis signaling	Homo sapiens	2024-03-28	0	0	0	0	0	0
+WP4284	https://www.wikipathways.org/instance/WP4284	Ultraconserved region 339 modulation of tumor suppressor microRNAs in cancer	Homo sapiens	2019-11-29	0	0	0	0	0	0
+WP4925	https://www.wikipathways.org/instance/WP4925	Unfolded protein response	Homo sapiens	2024-07-24	0	0	0	0	0	0
+WP4595	https://www.wikipathways.org/instance/WP4595	Urea cycle and associated pathways	Homo sapiens	2024-01-30	0	0	1	1	0	0
+WP497	https://www.wikipathways.org/instance/WP497	Urea cycle and metabolism of amino groups	Homo sapiens	2021-06-17	0	0	1	1	0	0
+WP4571	https://www.wikipathways.org/instance/WP4571	Urea cycle and related diseases	Homo sapiens	2024-01-30	0	0	1	1	0	0
+WP5158	https://www.wikipathways.org/instance/WP5158	Urotensin-II-mediated signaling	Homo sapiens	2024-05-22	0	0	1	1	0	0
+WP5085	https://www.wikipathways.org/instance/WP5085	Vasopressin-regulated water reabsorption	Homo sapiens	2024-07-23	0	0	1	1	0	0
+WP3888	https://www.wikipathways.org/instance/WP3888	VEGFA-VEGFR2 signaling	Homo sapiens	2023-04-23	0	0	1	1	0	0
+WP5397	https://www.wikipathways.org/instance/WP5397	Vitamin A1 and A5/X pathways	Homo sapiens	2024-07-22	0	0	0	0	0	0
+WP4228	https://www.wikipathways.org/instance/WP4228	Vitamin B6-dependent and responsive disorders	Homo sapiens	2024-02-11	0	0	0	0	0	0
+WP4698	https://www.wikipathways.org/instance/WP4698	Vitamin D-sensitive calcium signaling in depression	Homo sapiens	2024-07-22	0	0	1	1	0	0
+WP5186	https://www.wikipathways.org/instance/WP5186	Vitamin K metabolism and activation of dependent proteins	Homo sapiens	2023-07-29	0	0	0	0	0	0
+WP4342	https://www.wikipathways.org/instance/WP4342	Vitamins A and D - action mechanisms	Homo sapiens	2024-07-28	0	0	1	1	0	1
+WP5216	https://www.wikipathways.org/instance/WP5216	Warburg effect modulated by deubiquitinating enzymes and their substrates	Homo sapiens	2023-07-13	0	0	1	1	0	0
+WP4149	https://www.wikipathways.org/instance/WP4149	White fat cell differentiation	Homo sapiens	2019-09-17	0	0	0	0	0	0
+WP363	https://www.wikipathways.org/instance/WP363	Wnt signaling	Homo sapiens	2024-05-22	0	0	1	1	1	1
+WP428	https://www.wikipathways.org/instance/WP428	Wnt signaling	Homo sapiens	2023-09-30	0	0	1	1	1	1
+WP399	https://www.wikipathways.org/instance/WP399	Wnt signaling and pluripotency	Homo sapiens	2024-05-22	0	0	1	1	1	1
+WP4150	https://www.wikipathways.org/instance/WP4150	Wnt signaling in kidney disease	Homo sapiens	2024-03-27	0	0	1	1	0	0
+WP3658	https://www.wikipathways.org/instance/WP3658	Wnt/beta-catenin signaling in leukemia	Homo sapiens	2024-05-22	0	0	0	0	0	0
+WP5442	https://www.wikipathways.org/instance/WP5442	Wnt/Beta-catenin signaling inhibitors in current and past clinical trials	Homo sapiens	2024-07-22	0	0	0	0	0	1
+WP3529	https://www.wikipathways.org/instance/WP3529	Zinc homeostasis	Homo sapiens	2024-07-21	0	0	1	1	0	0
+WP4629	https://www.wikipathways.org/instance/WP4629	Aerobic glycolysis	Homo sapiens	2024-07-22	1	0	1	1	1	1
+WP4628	https://www.wikipathways.org/instance/WP4628	Aerobic glycolysis - augmented	Homo sapiens	2024-07-21	1	0	1	1	1	1
+WP1403	https://www.wikipathways.org/instance/WP1403	AMP-activated protein kinase signaling	Homo sapiens	2024-06-30	1	1	1	1	1	1
+WP3915	https://www.wikipathways.org/instance/WP3915	Angiopoietin-like protein 8 regulatory pathway	Homo sapiens	2024-07-21	1	0	0	0	0	0
+WP3926	https://www.wikipathways.org/instance/WP3926	ApoE and miR-146 in inflammation and atherosclerosis	Homo sapiens	2024-07-18	1	0	1	0	0	0
+WP254	https://www.wikipathways.org/instance/WP254	Apoptosis	Homo sapiens	2024-01-29	1	1	1	1	1	1
+WP1772	https://www.wikipathways.org/instance/WP1772	Apoptosis modulation and signaling	Homo sapiens	2024-01-28	1	1	1	1	1	1
+WP384	https://www.wikipathways.org/instance/WP384	Apoptosis modulation by HSP70	Homo sapiens	2023-04-23	1	1	1	1	1	1
+WP2586	https://www.wikipathways.org/instance/WP2586	Aryl hydrocarbon receptor pathway	Homo sapiens	2023-05-05	1	0	1	0	1	1
+WP2873	https://www.wikipathways.org/instance/WP2873	Aryl hydrocarbon receptor pathway	Homo sapiens	2021-12-22	1	0	1	0	1	1
+WP3604	https://www.wikipathways.org/instance/WP3604	Biochemical pathways: part I	Homo sapiens	2021-05-22	1	1	0	0	0	0
+WP197	https://www.wikipathways.org/instance/WP197	Cholesterol biosynthesis pathway	Homo sapiens	2024-01-28	1	1	0	0	1	0
+WP5329	https://www.wikipathways.org/instance/WP5329	Cholesterol biosynthesis pathway in hepatocytes	Homo sapiens	2024-07-22	1	1	0	0	0	0
+WP5304	https://www.wikipathways.org/instance/WP5304	Cholesterol metabolism	Homo sapiens	2024-05-09	1	1	0	0	1	0
+WP4718	https://www.wikipathways.org/instance/WP4718	Cholesterol metabolism with Bloch and Kandutsch-Russell pathways	Homo sapiens	2023-01-18	1	1	0	0	1	0
+WP5193	https://www.wikipathways.org/instance/WP5193	Cholesterol synthesis disorders	Homo sapiens	2024-01-29	1	1	0	0	0	0
+WP2875	https://www.wikipathways.org/instance/WP2875	Constitutive androstane receptor pathway	Homo sapiens	2021-05-22	1	0	0	0	0	0
+WP477	https://www.wikipathways.org/instance/WP477	Cytoplasmic ribosomal proteins	Homo sapiens	2021-05-16	1	0	0	0	0	0
+WP5175	https://www.wikipathways.org/instance/WP5175	Disorders in ketone body synthesis	Homo sapiens	2024-01-30	1	0	1	1	0	0
+WP4259	https://www.wikipathways.org/instance/WP4259	Disorders of folate metabolism and transport	Homo sapiens	2024-02-12	1	0	0	0	0	1
+WP5178	https://www.wikipathways.org/instance/WP5178	Disorders of fructose metabolism	Homo sapiens	2024-07-23	1	0	0	0	0	0
+WP5173	https://www.wikipathways.org/instance/WP5173	Disorders of galactose metabolism	Homo sapiens	2024-07-22	1	0	0	0	1	0
+WP4719	https://www.wikipathways.org/instance/WP4719	Eicosanoid metabolism via cyclooxygenases (COX)	Homo sapiens	2023-05-03	1	0	1	1	0	0
+WP4720	https://www.wikipathways.org/instance/WP4720	Eicosanoid metabolism via cytochrome P450 monooxygenases pathway	Homo sapiens	2023-01-18	1	0	1	1	0	0
+WP4721	https://www.wikipathways.org/instance/WP4721	Eicosanoid metabolism via lipooxygenases (LOX)	Homo sapiens	2023-01-18	1	0	1	0	0	0
+WP167	https://www.wikipathways.org/instance/WP167	Eicosanoid synthesis	Homo sapiens	2023-01-18	1	0	1	0	0	0
+WP111	https://www.wikipathways.org/instance/WP111	Electron transport chain: OXPHOS system in mitochondria	Homo sapiens	2024-06-30	1	0	1	1	1	1
+WP1541	https://www.wikipathways.org/instance/WP1541	Energy metabolism	Homo sapiens	2023-04-28	1	0	1	1	1	1
+WP5333	https://www.wikipathways.org/instance/WP5333	Enterocyte cholesterol metabolism	Homo sapiens	2024-05-09	1	1	0	0	0	0
+WP5276	https://www.wikipathways.org/instance/WP5276	Estrogen metabolism	Homo sapiens	2024-07-27	1	1	1	0	0	0
+WP697	https://www.wikipathways.org/instance/WP697	Estrogen metabolism	Homo sapiens	2024-07-22	1	1	1	0	0	0
+WP2881	https://www.wikipathways.org/instance/WP2881	Estrogen receptor pathway	Homo sapiens	2024-07-27	1	1	1	0	1	1
+WP712	https://www.wikipathways.org/instance/WP712	Estrogen signaling	Homo sapiens	2024-05-22	1	1	1	0	1	1
+WP5275	https://www.wikipathways.org/instance/WP5275	Ether lipid biosynthesis	Homo sapiens	2024-01-30	1	0	0	0	0	0
+WP2879	https://www.wikipathways.org/instance/WP2879	Farnesoid X receptor pathway	Homo sapiens	2021-05-07	1	1	1	0	0	0
+WP5274	https://www.wikipathways.org/instance/WP5274	Farnesyl to CoQ10 metabolism	Homo sapiens	2024-07-23	1	1	0	0	0	0
+WP143	https://www.wikipathways.org/instance/WP143	Fatty acid beta-oxidation	Homo sapiens	2023-01-18	1	0	1	0	0	0
+WP357	https://www.wikipathways.org/instance/WP357	Fatty acid biosynthesis	Homo sapiens	2023-02-04	1	0	0	0	0	0
+WP206	https://www.wikipathways.org/instance/WP206	Fatty acid omega-oxidation	Homo sapiens	2021-05-22	1	0	0	0	0	0
+WP5061	https://www.wikipathways.org/instance/WP5061	Fatty acid transporters	Homo sapiens	2024-07-23	1	1	1	1	0	0
+WP5323	https://www.wikipathways.org/instance/WP5323	Fatty acids and lipoproteins transport in hepatocytes	Homo sapiens	2024-03-28	1	1	0	0	0	0
+WP176	https://www.wikipathways.org/instance/WP176	Folate metabolism	Homo sapiens	2024-06-30	1	0	1	0	1	1
+WP5066	https://www.wikipathways.org/instance/WP5066	FOXA2 pathway	Homo sapiens	2021-05-09	1	1	0	0	1	1
+WP35	https://www.wikipathways.org/instance/WP35	G protein signaling	Homo sapiens	2024-05-22	1	1	0	0	1	1
+WP661	https://www.wikipathways.org/instance/WP661	Glucose homeostasis	Homo sapiens	2023-04-18	1	0	1	1	1	1
+WP698	https://www.wikipathways.org/instance/WP698	Glucuronidation	Homo sapiens	2024-07-22	1	1	1	0	0	0
+WP100	https://www.wikipathways.org/instance/WP100	Glutathione metabolism	Homo sapiens	2024-02-26	1	1	1	0	1	0
+WP1495	https://www.wikipathways.org/instance/WP1495	Glycine metabolism	Homo sapiens	2023-04-27	1	0	1	1	0	0
+WP500	https://www.wikipathways.org/instance/WP500	Glycogen synthesis and degradation	Homo sapiens	2023-04-18	1	0	1	0	0	0
+WP534	https://www.wikipathways.org/instance/WP534	Glycolysis and gluconeogenesis	Homo sapiens	2024-01-24	1	0	1	1	0	0
+WP334	https://www.wikipathways.org/instance/WP334	GPCRs, class B secretin-like	Homo sapiens	2021-05-22	1	1	0	0	0	0
+WP195	https://www.wikipathways.org/instance/WP195	IL1 signaling	Homo sapiens	2024-05-22	1	1	1	1	0	0
+WP4495	https://www.wikipathways.org/instance/WP4495	IL10 anti-inflammatory signaling	Homo sapiens	2024-05-22	1	1	1	1	0	0
+WP49	https://www.wikipathways.org/instance/WP49	IL2 signaling	Homo sapiens	2024-05-22	1	0	0	0	0	0
+WP395	https://www.wikipathways.org/instance/WP395	IL4 signaling	Homo sapiens	2024-05-22	1	1	0	0	0	0
+WP127	https://www.wikipathways.org/instance/WP127	IL5 signaling	Homo sapiens	2024-05-22	1	0	0	0	0	0
+WP364	https://www.wikipathways.org/instance/WP364	IL6 signaling	Homo sapiens	2024-07-28	1	1	0	0	0	0
+WP453	https://www.wikipathways.org/instance/WP453	Inflammatory response pathway	Homo sapiens	2024-07-26	1	1	0	0	0	0
+WP481	https://www.wikipathways.org/instance/WP481	Insulin signaling	Homo sapiens	2021-12-16	1	0	0	0	1	1
+WP2637	https://www.wikipathways.org/instance/WP2637	Interleukin-1 (IL-1) structural pathway	Homo sapiens	2023-12-04	1	1	0	0	0	0
+WP3656	https://www.wikipathways.org/instance/WP3656	Interleukin-1 induced activation of NF-kB	Homo sapiens	2021-05-23	1	1	1	1	0	1
+WP4742	https://www.wikipathways.org/instance/WP4742	Ketogenesis and ketolysis	Homo sapiens	2021-06-18	1	0	0	0	0	0
+WP3934	https://www.wikipathways.org/instance/WP3934	Leptin and adiponectin	Homo sapiens	2019-09-17	1	0	0	0	0	0
+WP3965	https://www.wikipathways.org/instance/WP3965	Lipid metabolism pathway	Homo sapiens	2024-02-05	1	0	0	0	0	0
+WP3601	https://www.wikipathways.org/instance/WP3601	Lipid particles composition	Homo sapiens	2021-05-22	1	1	0	0	0	0
+WP4010	https://www.wikipathways.org/instance/WP4010	Liver steatosis adverse outcome pathway	Homo sapiens	2024-03-28	1	0	0	0	0	0
+WP2874	https://www.wikipathways.org/instance/WP2874	Liver X receptor pathway	Homo sapiens	2021-05-07	1	1	0	0	1	0
+WP4315	https://www.wikipathways.org/instance/WP4315	Malate-aspartate shuttle	Homo sapiens	2024-07-28	1	0	0	0	0	0
+WP422	https://www.wikipathways.org/instance/WP422	MAPK cascade	Homo sapiens	2024-07-16	1	1	1	1	1	1
+WP382	https://www.wikipathways.org/instance/WP382	MAPK signaling	Homo sapiens	2024-05-22	1	1	1	1	1	1
+WP4522	https://www.wikipathways.org/instance/WP4522	Metabolic pathway of LDL, HDL and TG, including diseases	Homo sapiens	2024-02-25	1	0	0	0	0	0
+WP4586	https://www.wikipathways.org/instance/WP4586	Metabolism of alpha-linolenic acid	Homo sapiens	2024-07-27	1	0	0	0	0	0
+WP3602	https://www.wikipathways.org/instance/WP3602	Metabolism overview	Homo sapiens	2021-05-08	1	1	1	1	0	0
+WP4190	https://www.wikipathways.org/instance/WP4190	Mevalonate arm of cholesterol biosynthesis pathway	Homo sapiens	2021-05-27	1	1	1	1	1	0
+WP4189	https://www.wikipathways.org/instance/WP4189	Mevalonate arm of cholesterol biosynthesis pathway with inhibitors	Homo sapiens	2021-10-09	1	1	1	1	1	0
+WP3963	https://www.wikipathways.org/instance/WP3963	Mevalonate pathway	Homo sapiens	2023-02-02	1	1	1	1	0	0
+WP5241	https://www.wikipathways.org/instance/WP5241	Mitochondrial beta-oxidation	Homo sapiens	2022-12-10	1	0	1	1	1	1
+WP5034	https://www.wikipathways.org/instance/WP5034	Mitochondrial complex inhibition leading to liver injury	Homo sapiens	2024-03-12	1	0	1	1	0	0
+WP5123	https://www.wikipathways.org/instance/WP5123	Mitochondrial fatty acid oxidation disorders	Homo sapiens	2024-07-23	1	0	1	1	0	0
+WP4317	https://www.wikipathways.org/instance/WP4317	Mitochondrial fatty acid synthesis pathway	Homo sapiens	2024-07-28	1	0	1	1	1	1
+WP368	https://www.wikipathways.org/instance/WP368	Mitochondrial long chain fatty acid beta-oxidation	Homo sapiens	2023-04-24	1	0	1	1	1	1
+WP3644	https://www.wikipathways.org/instance/WP3644	NAD+ metabolism	Homo sapiens	2021-06-06	1	1	1	1	1	1
+WP288	https://www.wikipathways.org/instance/WP288	Nod-like receptor (NLR) signaling	Homo sapiens	2024-05-22	1	1	0	0	0	0
+WP4396	https://www.wikipathways.org/instance/WP4396	Nonalcoholic fatty liver disease	Homo sapiens	2024-07-28	1	0	0	0	0	0
+WP2884	https://www.wikipathways.org/instance/WP2884	NRF2 pathway	Homo sapiens	2019-09-12	1	1	1	1	1	1
+WP170	https://www.wikipathways.org/instance/WP170	Nuclear receptors	Homo sapiens	2021-05-07	1	1	0	0	1	1
+WP299	https://www.wikipathways.org/instance/WP299	Nuclear receptors in lipid metabolism and toxicity	Homo sapiens	2023-04-21	1	1	0	0	0	0
+WP2882	https://www.wikipathways.org/instance/WP2882	Nuclear receptors meta-pathway	Homo sapiens	2023-06-12	1	1	1	1	1	1
+WP5324	https://www.wikipathways.org/instance/WP5324	Octadecanoid formation from linoleic acid	Homo sapiens	2024-07-22	1	0	0	0	0	0
+WP4723	https://www.wikipathways.org/instance/WP4723	Omega-3 / omega-6 fatty acid synthesis	Homo sapiens	2023-01-18	1	0	0	0	0	0
+WP4724	https://www.wikipathways.org/instance/WP4724	Omega-9 fatty acid synthesis	Homo sapiens	2023-01-18	1	0	0	0	0	0
+WP43	https://www.wikipathways.org/instance/WP43	Oxidation by cytochrome P450	Homo sapiens	2021-06-22	1	1	1	0	0	0
+WP3941	https://www.wikipathways.org/instance/WP3941	Oxidative damage response	Homo sapiens	2021-05-16	1	1	1	1	0	0
+WP408	https://www.wikipathways.org/instance/WP408	Oxidative stress response	Homo sapiens	2024-02-28	1	1	1	1	1	0
+WP4545	https://www.wikipathways.org/instance/WP4545	Oxysterols derived from cholesterol	Homo sapiens	2024-02-12	1	1	0	0	0	0
+WP4963	https://www.wikipathways.org/instance/WP4963	p53 transcriptional gene network	Homo sapiens	2024-07-23	1	1	0	0	1	1
+WP2846	https://www.wikipathways.org/instance/WP2846	PCSK9-mediated LDL receptor degradation	Homo sapiens	2024-01-24	1	0	0	0	0	0
+WP134	https://www.wikipathways.org/instance/WP134	Pentose phosphate metabolism	Homo sapiens	2023-04-20	1	0	1	0	0	0
+WP5433	https://www.wikipathways.org/instance/WP5433	PGK1, PKM2, KHKC/KHKA acting as protein kinases	Homo sapiens	2023-12-24	1	1	0	0	0	0
+WP5472	https://www.wikipathways.org/instance/WP5472	Phosphoinositide 3-kinase (PI3K) family	Homo sapiens	2024-05-23	1	0	1	0	0	0
+WP4172	https://www.wikipathways.org/instance/WP4172	PI3K-Akt signaling	Homo sapiens	2024-07-28	1	0	1	1	1	1
+WP690	https://www.wikipathways.org/instance/WP690	Polyol pathway	Homo sapiens	2021-05-18	1	0	0	0	0	0
+WP3942	https://www.wikipathways.org/instance/WP3942	PPAR signaling	Homo sapiens	2024-05-22	1	1	1	1	1	1
+WP2878	https://www.wikipathways.org/instance/WP2878	PPAR-alpha pathway	Homo sapiens	2021-05-07	1	1	0	0	1	1
+WP2876	https://www.wikipathways.org/instance/WP2876	Pregnane X receptor pathway	Homo sapiens	2023-01-18	1	0	0	0	0	0
+WP5088	https://www.wikipathways.org/instance/WP5088	Prostaglandin signaling	Homo sapiens	2024-01-22	1	0	0	0	0	0
+WP98	https://www.wikipathways.org/instance/WP98	Prostaglandin synthesis and regulation	Homo sapiens	2023-04-17	1	0	1	1	0	0
+WP4688	https://www.wikipathways.org/instance/WP4688	Serine metabolism	Homo sapiens	2021-11-30	1	0	0	0	0	0
+WP4496	https://www.wikipathways.org/instance/WP4496	Signal transduction through IL1R	Homo sapiens	2024-07-27	1	1	0	0	0	0
+WP2011	https://www.wikipathways.org/instance/WP2011	SREBF and miR33 in cholesterol and lipid homeostasis	Homo sapiens	2024-01-07	1	1	0	0	0	0
+WP430	https://www.wikipathways.org/instance/WP430	Statin inhibition of cholesterol production	Homo sapiens	2021-11-21	1	1	0	0	0	0
+WP496	https://www.wikipathways.org/instance/WP496	Steroid biosynthesis	Homo sapiens	2024-02-26	1	1	0	0	0	0
+WP1982	https://www.wikipathways.org/instance/WP1982	Sterol regulatory element-binding proteins (SREBP) signaling	Homo sapiens	2024-01-06	1	1	0	0	0	0
+WP78	https://www.wikipathways.org/instance/WP78	TCA cycle (aka Krebs or citric acid cycle)	Homo sapiens	2024-02-28	1	0	1	1	0	1
+WP2453	https://www.wikipathways.org/instance/WP2453	TCA cycle and deficiency of pyruvate dehydrogenase complex (PDHc)	Homo sapiens	2021-05-22	1	0	1	1	0	1
+WP231	https://www.wikipathways.org/instance/WP231	TNF-alpha signaling	Homo sapiens	2024-05-22	1	1	1	1	1	0
+WP3599	https://www.wikipathways.org/instance/WP3599	Transcription factor regulation in adipogenesis	Homo sapiens	2019-08-15	1	0	0	0	0	0
+WP3	https://www.wikipathways.org/instance/WP3	Transcriptional activation by NRF2 in response to phytochemicals	Homo sapiens	2023-09-01	1	1	0	0	0	0
+WP4211	https://www.wikipathways.org/instance/WP4211	Transcriptional cascade regulating adipogenesis	Homo sapiens	2019-10-22	1	0	0	0	0	0
+WP325	https://www.wikipathways.org/instance/WP325	Triacylglyceride synthesis	Homo sapiens	2024-05-14	1	0	0	0	0	0
+WP3871	https://www.wikipathways.org/instance/WP3871	Valproic acid pathway	Homo sapiens	2019-09-17	1	0	0	0	1	1
+WP716	https://www.wikipathways.org/instance/WP716	Vitamin A and carotenoid metabolism	Homo sapiens	2024-07-16	1	1	0	0	0	0
+WP4271	https://www.wikipathways.org/instance/WP4271	Vitamin B12 disorders	Homo sapiens	2024-01-30	1	0	0	0	0	1
+WP1533	https://www.wikipathways.org/instance/WP1533	Vitamin B12 metabolism	Homo sapiens	2024-05-31	1	0	0	0	0	0
+WP4482	https://www.wikipathways.org/instance/WP4482	Vitamin D in inflammatory diseases	Homo sapiens	2022-02-26	1	1	1	1	0	0
+WP1531	https://www.wikipathways.org/instance/WP1531	Vitamin D metabolism	Homo sapiens	2024-02-15	1	1	1	1	0	0
+WP2877	https://www.wikipathways.org/instance/WP2877	Vitamin D receptor pathway	Homo sapiens	2021-09-13	1	1	1	1	1	1
